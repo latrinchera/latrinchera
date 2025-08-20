@@ -1,6 +1,6 @@
 ---
 title: Nosotras
-layout: team
+layout: teams
 description: Nosotras
 permalink: "/team/"
 intro_image_absolute: true
