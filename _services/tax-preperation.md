@@ -3,7 +3,7 @@ title: "Resultado de las elecciones"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
-
+Se subirá el 30 de octubre de 2025
 <!-- Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
