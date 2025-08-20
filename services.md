@@ -1,6 +1,6 @@
 ---
 title: Notas
-layout: Notas
+layout: services
 description: Notas
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
