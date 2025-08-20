@@ -3,7 +3,7 @@ title: "Acto de campaña"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
-Se subirá el 23 de octubre
+Se subirá el 23 de octubre de 2025
 <!--Business advisory is the final tier of the accounting pyramid.-->
 <!--more-->
 
