@@ -8,9 +8,9 @@ main:
   - name: "Sobre La trinchera"
     url: "/about/"
     weight: 4
-  - name: "Contactos"
+ <!-- - name: "Contactos"
     url: "/contact/"
-    weight: 5
+    weight: 5 -->
 
 footer:
   - name: "Home"
