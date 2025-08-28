@@ -5,6 +5,7 @@ weight: 1
 ---
 ### El pasado 7 de agosto presentaron ante la Justicia Electoral las alianzas y las listas para las elecciones del 26 de octubre. Se unieron: el Moviento Socialista de los Trabajadores (MST), con el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) y la Izquierda Socialista (IS).
 
+---
 
 Para la Ciudad de Buenos Aires definieron para la lista a diputados nacionales a Cele Fierro jutno a Myriam Bregman. Por su parte, para la Provincia de Buenos Aires, Alejandro Bodart y Ana Paredes Landman, acompañados de otros referentes de los partidos del frente unido, con la mente puesta en priorizar los derechos humanos, sociales, sindicales, feministas, del activismo socioambiental, entre otros.
 
