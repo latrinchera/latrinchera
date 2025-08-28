@@ -3,10 +3,9 @@ title: "El Frente de Izquierda y de los Trabajadores Unidad ya decidió con qui�
 date: 2025-08-26T12:33:46+10:00
 weight: 1
 ---
-> El pasado 7 de agosto presentaron ante la Justicia Electoral las alianzas y las listas para las elecciones del 26 de octubre. Se unieron: el Moviento Socialista de los Trabajadores (MST), con el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) y la Izquierda Socialista (IS).
+## El pasado 7 de agosto presentaron ante la Justicia Electoral las alianzas y las listas para las elecciones del 26 de octubre. Se unieron: el Moviento Socialista de los Trabajadores (MST), con el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) y la Izquierda Socialista (IS).
 
 Para la Ciudad de Buenos Aires definieron para la lista a diputados nacionales a Cele Fierro jutno a Myriam Bregman. Por su parte, para la Provincia de Buenos Aires, Alejandro Bodart y Ana Paredes Landman, acompañados de otros referentes de los partidos del frente unido, con la mente puesta en priorizar los derechos humanos, sociales, sindicales, feministas, del activismo socioambiental, entre otros.
-
 Cele Fierro, dirigente del MST, cuestinó en la presentación la alianza entre el PRO y La Libertad Avanza y declaró: "Insistimos que desde el Frente de Izquierda somos la única fuerza que no se vende ni transa, que está siempre del mismo lado: el de los trabajadores, la juventud y el pueblo que la pelea todos los días. Ese es el verdadero voto que castiga a los poderosos".
 
 Este gran alianza entre los partidos de izquierda se realizó con el principal objetivo de consolidarse como alternativa al gobierno de Javier Milei y a la oposicón representada por el Partido Justicialista. Por su parte, Bodart, candidato en PBA, denunció una complicidad del PJ con el oficialismo: "En el Congreso han dejado correr muchas de las leyes de Milei. No sirven para frenar a este gobierno liberfacho". El dirigente pidió fortaleceer al FIT Unidad como forma rela de expresar el descontento social.
