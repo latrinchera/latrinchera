@@ -2,7 +2,7 @@
 title: Notas
 layout: services
 description: Notas
-intro_image: "images/illustrations/reading.svg"
+intro_image: "portada.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
