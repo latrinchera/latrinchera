@@ -1,8 +1,8 @@
 ---
 title: La trinchera
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: la trinchera contains content types for a typical website. The theme is fully responsive, blazing fast and artfully illustrated.
+intro_image: "portada.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # La trinchera
 
-Trabajo en equipo para la comisión A de Periodismo Político de estudiantes de la UCA
+Cobertura y análisis de la comapaña de Myriam Bregman en el FIT-U como diputada nacional en 2025
