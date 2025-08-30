@@ -1,5 +1,5 @@
 ---
-title: Entrada 7
+title: ""Entrada 7""
 date: 2025-08-26T12:33:46+10:00
 weight: 7
 promoted: false
