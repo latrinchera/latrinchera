@@ -1,9 +1,9 @@
 ---
-title: "Análisis de campaña"
+title: ""Análisis de campaña""
 date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
-Se subirá el 6 de noviembre de 2025
+<!--Se subirá el 6 de noviembre de 2025-->
 <!-- Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec. -->
