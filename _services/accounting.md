@@ -1,9 +1,9 @@
 ---
-title: "Perfil de candidato"
+title: ""Perfil de candidato""
 date: 2018-11-18T12:33:46+10:00
 weight: 2
 ---
-Se subirá el 18 de septiembre de 2025
+<!--Se subirá el 18 de septiembre de 2025 -->
 <!-- Financial accounting (or financial accountancy) is the field of accounting concerned with the summary, analysis and reporting of financial transactions related to a business. -->
 
 <!-- ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
