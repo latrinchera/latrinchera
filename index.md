@@ -10,4 +10,4 @@ show_call_box: true
 
 # La trinchera
 
-Cobertura y análisis de la comapaña de Myriam Bregman en el FIT-U como diputada nacional en 2025
+Cobertura y análisis de la compaña de Myriam Bregman en el FIT-U como diputada nacional en 2025
