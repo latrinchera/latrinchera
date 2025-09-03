@@ -6,14 +6,14 @@ bodyClass: "page-service"
 ---
 El gobierno logró el fallo para impedir la circulación de más grabaciones de voz, a su vez, el Ministerio de Seguridad denunció un supuesto "espionaje ilegal".
 
-Este martes el Gobierno logró un polémico fallo que prohibió la difusión de los audios de Karina Milei en cualquier medio de comunicación. La medida fue aprobada por **Alejandro Maraniello**, juez Civil y Comercial, cuyo perfil fue investigado por la prensa y descubrieron **nueve denuncias previas en su contra, cinco de ellas por abuso sexual**
+Este martes el Gobierno logró un polémico fallo que prohibió la difusión de los audios de Karina Milei en cualquier medio de comunicación. La medida fue aprobada por **Alejandro Maraniello**, juez Civil y Comercial, cuyo perfil fue investigado por la prensa y descubrieron **nueve denuncias previas en su contra, cinco de ellas por abuso sexual**.
 
 ![Alejandro Maraniello](https://latrinchera.github.io/latrinchera/images/juez-civil-alejandro-maraniello.jpg)
 > Alejandro Maraniello, el juez Civil y Comercial que autorizó el fallo. Fuente: Corta
 
 La prohibición fue repudiada por diferentes sectores ya que se considera que **afecta a la libertad de prensa, expresión y al libre ejercicio del periodismo**. En este sentido, la Asociación de Entidades Periodisticas Argentinas (ADEPA) manifestó que "es un nuevo ejemplo de órdenes estatales que limitan de modo ilegitimo las libertades de expresión y de prensa". 
 
-Sumado a ello, el abogado constitucionalista **Daniel Sebsay** declaró que el fallo "viola la libertad de opinión y de libre difusión de las ideas". Además, según Sabsay, es una **violación al Pacto de San José de Costa Rica**, tratado que decreta el derecho a expresión sin censura previa. Agregó también que la prohibición es perjudicial tanto para la prensa como **para el público en general**, a quienes se les está prohibiendo informarse.
+Sumado a ello, el abogado constitucionalista **Daniel Sabsay** declaró que el fallo "viola la libertad de opinión y de libre difusión de las ideas". Además, según Sabsay, es una **violación al Pacto de San José de Costa Rica**, tratado que decreta el derecho a expresión sin censura previa. Agregó también que la prohibición es perjudicial tanto para la prensa como **para el público en general**, a quienes se les está prohibiendo informarse.
 
 En paralelo al fallo, el Gobierno denunció que los audios fueron distribuidos en un contexto de "**espionaje ilegal**" y además de la medida, pidieron el **allanamiento** del stream Carnaval y las viviendas de Jorge Rial, Mauro Federico, Pablo Toviggio y Franco Bindi, quienes estuvieron involucrados en la difusión de los audios en un primer momento.
 <!--El pasado 7 de agosto presentaron ante la Justicia Electoral las alianzas y las listas para las elecciones del 26 de octubre. Se unieron: el Moviento Socialista de los Trabajadores (MST), con el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) y la Izquierda Socialista (IS).-->
