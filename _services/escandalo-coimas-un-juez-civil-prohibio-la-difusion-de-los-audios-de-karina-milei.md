@@ -1,6 +1,6 @@
 ---
 <!--title: "Escandalo coimas: un juez Civil prohibió la difusión de los audios de Karina Milei"
-date: 2025-08-26T12:33:46+10:00
+date: 2025-09-03T10:13:46+10:00
 weight: 1
 bodyClass: "page-service"-->
 ---
