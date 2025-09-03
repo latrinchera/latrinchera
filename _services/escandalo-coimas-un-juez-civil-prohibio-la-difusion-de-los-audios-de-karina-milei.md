@@ -8,6 +8,8 @@ El gobierno logró el fallo para impedir la circulación de más grabaciones de 
 
 Este martes el Gobierno logró un polémico fallo que prohibió la difusión de los audios de Karina Milei en cualquier medio de comunicación. La medida fue aprobada por **Alejandro Maraniello**, juez Civil y Comercial, cuyo perfil fue investigado por la prensa y descubrieron **nueve denuncias previas en su contra, cinco de ellas por abuso sexual**
 
+[Alejandro Maraniello](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/juez-civil-alejandro-maraniello.jpg)
+
 La prohibición fue repudiada por diferentes sectores ya que se considera que **afecta a la libertad de prensa, expresión y al libre ejercicio del periodismo**. En este sentido, la Asociación de Entidades Periodisticas Argentinas (ADEPA) manifestó que "es un nuevo ejemplo de órdenes estatales que limitan de modo ilegitimo las libertades de expresión y de prensa". 
 
 Sumado a ello, el abogado constitucionalista **Daniel Sebsay** declaró que el fallo "viola la libertad de opinión y de libre difusión de las ideas". Además, según Sabsay, es una **violación al Pacto de San José de Costa Rica**, tratado que decreta el derecho a expresión sin censura previa. Agregó también que la prohibición es perjudicial tanto para la prensa como **para el público en general**, a quienes se les está prohibiendo informarse.
