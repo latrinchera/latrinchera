@@ -13,6 +13,8 @@ Si bien dentro de la alianza de Vamos Corrientes se encuentra el Partido Sociali
 
 La única participación formal del FIT-U en Corrientes fue en **2021**. Este partido de unidad estuvo encabezado por Sonia López (partido comunista), Raúl Del Lago (Convocatoria Popular) y María del Carmen González (Barrios de Pie), pero no consiguieron sentarse en ninguna banca legislativa.
 
+![Cambiá Corrientes](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/cambia-corrientes.jpg)
+
 En 2025, los mismos referentes reaparecieron en la contienda provincial bajo el frente Cambiá Corrientes, con López como candidata a gobernadora y Dal Lago como candidato a vice. Este espacio incluyó los mismos partidos anteriores y nuevamente no logró superar el umbral electoral, ya que solo consiguieron un 0,8% de los votos.
 
 Históricamente, Corrientes se destaca por tener una escasa participación de la izquierda. Desde el retorno de la democracia en 1983, los comicios provinciales fueron ampliamente captados por las alianzas radicales por el perinismo tradicional.
