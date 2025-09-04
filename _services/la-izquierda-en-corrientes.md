@@ -6,7 +6,7 @@ bodyClass: "page-service"
 ---
 En estas elecciones provinciales de Corrientes, el 31 de octubre de 2025, eligieron a Juan Pablo Valdés, candidato de Vamos Corrientes, como el nuevo gobernador. Fue electo con el 51,9% de los votos. **El FIT-U no tuvo presencia como espacio político propio**.
 
-![Juan Pablo Valdes](https://github.com/latrinchera/latrinchera/blob/master/images/juan-pablo-valdes.jpg)
+![Juan Pablo Valdes](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/juan-pablo-valdes.jpg)
 > Juan Pablo Valdes ganó en Corrientes en primera vuelta con el 52% de los votos.
 
 Si bien dentro de la alianza de Vamos Corrientes se encuentra el Partido Socialista, con otros 32 partidos políticos, según el documento oficial de la Junta Electoral presentado en campaña resaltaba alguna propuesta propia del frente. Esta alianza estuvo **dominada por la UCR y el PRO**.
