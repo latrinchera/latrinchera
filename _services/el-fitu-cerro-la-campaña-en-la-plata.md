@@ -22,7 +22,7 @@ Para el segundo en la lista, la baja participación también tiene que ver con �
 
 Las propuestas de campaña vocalizadas en Plaza Moreno tuvieron un eje claro: que haya un control popular en los principales resortes de los municipios. También proponen una reducción de la jornada laboral a seis horas cinco días a la semana para crear un cuarto turno; capacitación docente para que la ESI sea un contenido transversal y obligatorio; estatizar el sistema de transporte; y que las inmobiliarias y constructoras paguen un impuesto extraordinario para poder llevar adelante un plan de viviendas en los barrios, entre otras.
 
-![Bregman y Fierro 2025](https://latrinchera.github.io/latrinchera/bregman-y-fierro.jpg)
+<!--![Bregman y Fierro 2025](https://latrinchera.github.io/latrinchera/bregman-y-fierro.jpg)
 > Participación de los ciudadanos en el acto de cierre de campaña.
 -->
 
@@ -99,6 +99,5 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
   - patents
     - pending
     - international
-- goodwill
-
+- goodwill -->
 Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
