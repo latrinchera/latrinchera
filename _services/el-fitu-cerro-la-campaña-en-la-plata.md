@@ -4,12 +4,13 @@ date: 2025-09-06T12:33:46+10:00
 weight: 6
 bodyClass: "page-service"
 ---
+El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la Plaza Moreno, La Plata.
+
 Desde las tres de la tarde, frente al Palacio Municipal, tuvo lugar el acto de cierre de campaña de la izquierda. Integrado por el Movimiento Socialista de los Trabajadores (MST), el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) e Izquierda Socialista, la plaza reunió militantes y simpatizantes del partido.
 
-El acto empezó con Laura Cano reafirmando que “fue una campaña a pulmón”, que se desarrolló en un contexto adverso a los partidos de izquierda autogestionados. Para las elecciones Legislativas, el frente de izquierda se presentó con una lista “llena de laburantes”, 
-según Cano.
+El acto empezó con Laura Cano reafirmando que “fue una campaña a pulmón”, que se desarrolló en un contexto adverso a los partidos de izquierda autogestionados. Para las elecciones legislativas, el frente de izquierda se presentó con una lista “llena de laburantes”, según Cano.
 
-Esta idea estuvo presente en los testimonios de los presentes. Luana Simioni, primera candidata a concejal en La Plata, habló con el equipo de La Trinchera, y remarcó que “es una elección rara porque partieron la provincia en 8 pedazos. Antes, para votar a un diputado nacional, tenías un cuerpo de la boleta que unificaba la provincia. Ahora, al no estar eso, se obligó a regionalizar”. Por esta razón, la estrategia de campaña del FIT-U se enfocó en “caminar junto con candidatos locales”, señaló Simioni.
+Esta idea estuvo presente en los testimonios de los asistentes. Luana Simioni, primera candidata a concejal en La Plata, habló con el equipo de La Trinchera, y remarcó que “es una elección rara porque partieron la provincia en 8 pedazos. Antes, para votar a un diputado nacional, tenías un cuerpo de la boleta que unificaba la provincia. Ahora, al no estar eso, se obligó a regionalizar”. Por esta razón, la estrategia de campaña del FIT-U se enfocó en “caminar junto con candidatos locales”, señaló Simioni.
 
 “En la plata hicieron una campaña local intensa en la que recorrieron mucho”, continuó la candidata a concejal, “en la tercera sección, que hay muchos municipios, caminaron mucho junto con candidatos locales, que suelen ser personas de sectores precarizados”. El objetivo de estas caminatas fue establecer un punto de contacto entre los votantes y candidatos, y captar a los que no saben qué votar y a los desencantados con el Gobierno de turno.
 
@@ -22,7 +23,7 @@ Para el segundo en la lista, la baja participación también tiene que ver con �
 Las propuestas de campaña vocalizadas en Plaza Moreno tuvieron un eje claro: que haya un control popular en los principales resortes de los municipios. También proponen una reducción de la jornada laboral a seis horas cinco días a la semana para crear un cuarto turno; capacitación docente para que la ESI sea un contenido transversal y obligatorio; estatizar el sistema de transporte; y que las inmobiliarias y constructoras paguen un impuesto extraordinario para poder llevar adelante un plan de viviendas en los barrios, entre otras.
 
 ![Bregman y Fierro 2025](https://latrinchera.github.io/latrinchera/bregman-y-fierro.jpg)
-> Celo Fierro junto a Myriam Bregman, candidatas a diputadas por la Ciudad.
+> Participación de los ciudadanos en el acto de cierre de campaña.
 -->
 
 <!--![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
