@@ -1,7 +1,7 @@
 ---
-title: ""Acto de campaña""
+title: "El Frente de Izquierda cerró su campaña en La Plata"
 date: 2018-12-28T15:14:39+10:00
-weight: 4
+weight: 3
 ---
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
