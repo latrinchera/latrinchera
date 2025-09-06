@@ -1,24 +1,29 @@
 ---
-title: "El Frente de Izquierda y de los Trabajadores Unidad ya decidió con quiénes avanza para las legislativas"
-date: 2025-08-26T12:33:46+10:00
+title: "El Frente de Izquierda cerró su campaña en La Plata"
+date: 2025-09-06T12:33:46+10:00
 weight: 6
 bodyClass: "page-service"
 ---
-El pasado 7 de agosto presentaron ante la Justicia Electoral las alianzas y las listas para las elecciones del 26 de octubre. Se unieron: el Moviento Socialista de los Trabajadores (MST), con el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) y la Izquierda Socialista (IS).
+Desde las tres de la tarde, frente al Palacio Municipal, tuvo lugar el acto de cierre de campaña de la izquierda. Integrado por el Movimiento Socialista de los Trabajadores (MST), el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) e Izquierda Socialista, la plaza reunió militantes y simpatizantes del partido.
 
-Para la Ciudad de Buenos Aires definieron para la lista a diputados nacionales a Cele Fierro junto a Myriam Bregman. Por su parte, para la Provincia de Buenos Aires, Alejandro Bodart y Ana Paredes Landman, acompañados de otros referentes de los partidos del frente unido, con la mente puesta en priorizar los derechos humanos, sociales, sindicales, feministas, del activismo socioambiental, entre otros.
+El acto empezó con Laura Cano reafirmando que “fue una campaña a pulmón”, que se desarrolló en un contexto adverso a los partidos de izquierda autogestionados. Para las elecciones Legislativas, el frente de izquierda se presentó con una lista “llena de laburantes”, 
+según Cano.
 
-Cele Fierro, dirigente del MST, **cuestinó en la presentación la alianza entre el PRO y La Libertad Avanza** y declaró: "Insistimos que desde el Frente de Izquierda somos la única fuerza que no se vende ni transa, que está siempre del mismo lado: el de los trabajadores, la juventud y el pueblo que la pelea todos los días. Ese es el verdadero voto que castiga a los poderosos".
+Esta idea estuvo presente en los testimonios de los presentes. Luana Simioni, primera candidata a concejal en La Plata, habló con el equipo de La Trinchera, y remarcó que “es una elección rara porque partieron la provincia en 8 pedazos. Antes, para votar a un diputado nacional, tenías un cuerpo de la boleta que unificaba la provincia. Ahora, al no estar eso, se obligó a regionalizar”. Por esta razón, la estrategia de campaña del FIT-U se enfocó en “caminar junto con candidatos locales”, señaló Simioni.
+
+“En la plata hicieron una campaña local intensa en la que recorrieron mucho”, continuó la candidata a concejal, “en la tercera sección, que hay muchos municipios, caminaron mucho junto con candidatos locales, que suelen ser personas de sectores precarizados”. El objetivo de estas caminatas fue establecer un punto de contacto entre los votantes y candidatos, y captar a los que no saben qué votar y a los desencantados con el Gobierno de turno.
+
+Franco Rapanelli, segundo en la lista de candidatos a concejales en La Plata, planteó que “la izquierda aparece como una alternativa que interviene en la cotidianeidad, y nuestras listas están integradas por compañeros que intervienen en esas luchas”. Para Rapanelli, el Gobierno actual es incompatible con las necesidades básicas de la población. En su opinión, el oficialismo y el peronismo llevaron a cabo ajustes que alimentaron el descontento popular.
+
+Para ambos candidatos, este descontento fue el responsable de la baja participación electoral. Simioni argumentó que “hay una juventud menos defensora de las ideas de Milei, que defiende valores que el presidente ataca”. Justamente, el FIT-U tiene una base electoral compuesta por jóvenes universitarios y jubilados, y, en la decepción de estos sectores por las políticas agresivas del Gobierno, encuentra una oportunidad: “La izquierda es una opción rápida, un vehículo para ayudar a que la juventud rompa con las ideas de la derecha”.
+
+Para el segundo en la lista, la baja participación también tiene que ver con “un desconocimiento de lo que se vota”. “Quedarte en tu casa no sirve para nada, van a seguir gobernando los mismos de siempre, canaliza la decepción de los que te han traicionado por la izquierda, que es el verdadero cambio y voto útil”, afirmó.
+
+Las propuestas de campaña vocalizadas en Plaza Moreno tuvieron un eje claro: que haya un control popular en los principales resortes de los municipios. También proponen una reducción de la jornada laboral a seis horas cinco días a la semana para crear un cuarto turno; capacitación docente para que la ESI sea un contenido transversal y obligatorio; estatizar el sistema de transporte; y que las inmobiliarias y constructoras paguen un impuesto extraordinario para poder llevar adelante un plan de viviendas en los barrios, entre otras.
 
 ![Bregman y Fierro 2025](https://latrinchera.github.io/latrinchera/bregman-y-fierro.jpg)
 > Celo Fierro junto a Myriam Bregman, candidatas a diputadas por la Ciudad.
-
-
-Esta gran alianza entre los partidos de izquierda se realizó con el principal objetivo de consolidarse como alternativa al gobierno de Javier Milei y a la oposicón representada por el Partido Justicialista. Por su parte, Bodart, candidato en PBA, **denunció una complicidad del PJ con el oficialismo:** "En el Congreso han dejado correr muchas de las leyes de Milei. No sirven para frenar a este gobierno liberfacho". El dirigente pidió fortaleceer al FIT Unidad como forma rela de expresar el descontento social.
-<!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.-->
+-->
 
 <!--![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
