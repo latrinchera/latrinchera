@@ -1,7 +1,7 @@
 ---
 title: "Escandalo coimas: un juez Civil prohibió la difusión de los audios de Karina Milei"
 date: 2025-09-03T10:13:46+10:00
-weight: 5
+weight: 11
 bodyClass: "page-service"
 ---
 El gobierno logró el fallo para impedir la circulación de más grabaciones de voz, a su vez, el Ministerio de Seguridad denunció un supuesto "espionaje ilegal".
