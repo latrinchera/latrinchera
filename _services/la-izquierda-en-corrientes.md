@@ -1,7 +1,7 @@
 ---
 title: "La izquierda en Corrientes"
 date: 2025-09-03T21:17:46+10:00
-weight: 1
+weight: 10
 bodyClass: "page-service"
 ---
 En estas elecciones provinciales de Corrientes, el 31 de octubre de 2025, eligieron a Juan Pablo Valdés, candidato de Vamos Corrientes, como el nuevo gobernador. Fue electo con el 51,9% de los votos. **El FIT-U no tuvo presencia como espacio político propio**.
