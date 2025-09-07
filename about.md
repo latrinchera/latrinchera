@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 Este sitio se creó para la materia de Periodismo Político de tercer año de la carrera de Comunicación Periodística en la Universidad Católica Argentina (UCA).
 
-Somos 5 alumnas dedicadas al seguimiento y la cobertura de la candidata a diputada nacional Myriam Bregman por El Frente de Izquierda de los Trabajadores Unidad (FIT-U) en las elecciones legislativas nacionales de 2025.
+Somos cinco alumnas dedicadas al seguimiento y la cobertura de la campaña de la candidata a diputada nacional Myriam Bregman por El Frente de Izquierda de los Trabajadores Unidad (FIT-U) en las elecciones legislativas nacionales de 2025.
 <!-- Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec. -->
