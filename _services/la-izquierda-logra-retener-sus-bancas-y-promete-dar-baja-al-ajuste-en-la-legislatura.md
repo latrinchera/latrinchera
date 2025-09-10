@@ -33,13 +33,13 @@ En cuanto a los resultados, el peronismo se impuso con el 47,28% de los votos, g
 
 Más atrás quedaron Somos Buenos Aires y el Frente de Izquierda, con el 5,26% y el 4,37% de los votos, respectivamente. Pese a estos porcentajes, ambos lograron su objetivo de ocupar bancas en las cámaras de la provincia. El Frente de Izquierda se hizo de dos bancaas en la Cámara de Diputados, mientras que Somos Buenos Aires logró tres bancas en el Senado y seis en la Cámara baja.
 
-**¿Cómo quedaron conformadas las cámaras?*
+**¿Cómo quedaron conformadas las cámaras?**
 
 ![Cámara de Diputados provinciales]()
 
 La Cámara de Diputados quedí conformada por 39 bancas pertenecientes a Fuerza Patria, quienes estarán a ocho legisladores de alcanzar el quórum, y 31 pertenecientes a LLA, quienes se consagraron como la segunda fuerza del recinto. Luego aparece Somos buenos Aires con seis escaños, Hechos con tres y el FIT-U con dos. Las 11 bancas restantes pertenecen a otros partidos.
 
-1[Cámara de Senadores pronvinciales]()
+![Cámara de Senadores pronvinciales]()
 
 La Cámara de Senadores, por su parte, pasará a estar integrada de la siguiente manera: el peronismo logró quedarse con un total de 24 bancas, lo que le asegura quórum propio y La Libertad Avanza se hizo de 15 escaños. Somos Buenos Aires logró hacerse de tres puestos en el recinto. Las cuatro bancas restantes pertenecen a otros partidos.
 
