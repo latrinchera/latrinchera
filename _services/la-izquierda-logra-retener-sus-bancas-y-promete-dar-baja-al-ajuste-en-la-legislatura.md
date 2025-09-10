@@ -1,9 +1,49 @@
 ---
 title: "El Frente de Izquierda y de los Trabajadores Unidad ya decidió con quiénes avanza para las legislativas"
-date: 2025-08-26T12:33:46+10:00
+date: 2025-09-10T14:24:46+10:00
 weight: 1
 ---
+El Frente de Izquierda y de los Trabajadores - Unidad (FIT-U) logró entrar a la legislatura bonaerense y buscará frenar el avance de la motosierra en la provincia.
 
+![FIT-U]()
+
+Según los resultados oficiales, el peronismo, esta vez bajo el Frente Patria, se impuso en las elecciones provinciales con el 47% de los votos. En segundo lugar, el oficialismo nacional obtuvo el 34%. Por su parte, el FIT-U alcanzó el 4,37%.
+
+El partido de la izquierda tuvo una actuación destacada en la tercera sección electorañ, especialmente en la categoria de diputados. En La Matanza alcanzó el 7,5% de los votos, mientras en Quilmes obtuvo un 6,2%, cifra que se replicó en distritos como Berisso, Presidente Perón, Lanús y Florencio Varela.
+
+Los principales candidatos de la izquierda recibieron los resultados en el búnker de Avellaneda. El clima era festivo, pues, gracias a este resultado, lograron mantener representación en la legislatura bonaerense. 
+
+Nicolás del Caño, candidato a diputado por la Tercera Sección, declaró: "El resultado muestra cómo las y los bonaerenses han repudiado al gobierno de Javier Milei, quien hoy ha tenido una durísima derrota". También agregó que la izquierda hizo una "excelente elección", puesto que lograron consolidarse como la tercera fuerza electoral en la primera y tercera sección tanto como en la ciudad de La Plata.
+
+El dirigente de izquierrda cerró su discurso estaciendo que estaban muy contentos como los resultados obtenidso, y que seguirán dando cara a "todas las peleas y luchas que se vienen". 
+
+Romina del Plá, candidata a senadora provincial por la primera sección, indicó que la "paliza electoral" que sufrió Milei en los comicios provinciales, son una claara muestra de que no tiene mandato para llevar adelante las medidas "antipopulares" que viene ejecutando.
+
+![FIT-U Festejo]()
+
+Por último, Mónica Schlotthauer, diputada electa, aseguró que iban a asumir sus bancas con el comprimiso de utilizarlas como "trincheras de lucha" contra el "brutal ajuste perpetuado", no solamente por Javier Milei, sino también por el gobierno provicial de Axel Kicillof.
+
+"Cada una de las bancaas que conquistamis es para fortalecer las luchas de las y los trabajadores, jubilados y los sectores populares, como lo hacemos en la fábricas, los sindicatos, los barrios, las universidades y en cada lugar que estamos. Esto es un gran empujón para seguir construyendo una alternativa política que enfrente de manera consecuente y de verdad a este gobierno ultraderechista", concluyó la sindicalista ferroviaria.
+
+**¿Qué se votó?**
+
+En las elecciones llevadaas a cabo el domingo 7 de septiembre, los bonaerenses definiferon la composición del poder legislativo provincial. En la legislatura de la provincia de Buenos Aires se renovaron 46 diputados titulares y 28 suplentes, mientras que en el senado, se renovaron 23 bancas titulares y 15 suplentes.
+
+En cuanto a los resultados, el peronismo se impuso con el 47,28% de los votos, ganando en ses de las ocho secciones electorales de la provincia. La Libertad Avanza (LLA) obtuvo el 33,71% y logró imponerse únicamente en la quinta y sexta sección.
+
+Más atrás quedaron Somos Buenos Aires y el Frente de Izquierda, con el 5,26% y el 4,37% de los votos, respectivamente. Pese a estos porcentajes, ambos lograron su objetivo de ocupar bancas en las cámaras de la provincia. El Frente de Izquierda se hizo de dos bancaas en la Cámara de Diputados, mientras que Somos Buenos Aires logró tres bancas en el Senado y seis en la Cámara baja.
+
+**¿Cómo quedaron conformadas las cámaras?*
+
+![Cámara de Diputados provinciales]()
+
+La Cámara de Diputados quedí conformada por 39 bancas pertenecientes a Fuerza Patria, quienes estarán a ocho legisladores de alcanzar el quórum, y 31 pertenecientes a LLA, quienes se consagraron como la segunda fuerza del recinto. Luego aparece Somos buenos Aires con seis escaños, Hechos con tres y el FIT-U con dos. Las 11 bancas restantes pertenecen a otros partidos.
+
+1[Cámara de Senadores pronvinciales]()
+
+La Cámara de Senadores, por su parte, pasará a estar integrada de la siguiente manera: el peronismo logró quedarse con un total de 24 bancas, lo que le asegura quórum propio y La Libertad Avanza se hizo de 15 escaños. Somos Buenos Aires logró hacerse de tres puestos en el recinto. Las cuatro bancas restantes pertenecen a otros partidos.
+
+El escenario político se volverá a poner en juego en las elecciones del 26 de octubre. En esa instancia se renovarán 127 bancas de la Cámara de Diputados de la Nación y 24 del Senado. 
 <!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
