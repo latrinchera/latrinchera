@@ -5,7 +5,7 @@ weight: 1
 ---
 El Frente de Izquierda y de los Trabajadores - Unidad (FIT-U) logró entrar a la legislatura bonaerense y buscará frenar el avance de la motosierra en la provincia.
 
-![FIT-U]()
+![FIT-U](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/el-fitu.jpg)
 
 Según los resultados oficiales, el peronismo, esta vez bajo el Frente Patria, se impuso en las elecciones provinciales con el 47% de los votos. En segundo lugar, el oficialismo nacional obtuvo el 34%. Por su parte, el FIT-U alcanzó el 4,37%.
 
@@ -19,7 +19,7 @@ El dirigente de izquierrda cerró su discurso estaciendo que estaban muy content
 
 Romina del Plá, candidata a senadora provincial por la primera sección, indicó que la "paliza electoral" que sufrió Milei en los comicios provinciales, son una claara muestra de que no tiene mandato para llevar adelante las medidas "antipopulares" que viene ejecutando.
 
-![FIT-U Festejo]()
+![FIT-U Festejo](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/el-fitu-aplausos.jpg)
 
 Por último, Mónica Schlotthauer, diputada electa, aseguró que iban a asumir sus bancas con el comprimiso de utilizarlas como "trincheras de lucha" contra el "brutal ajuste perpetuado", no solamente por Javier Milei, sino también por el gobierno provicial de Axel Kicillof.
 
@@ -35,11 +35,11 @@ Más atrás quedaron Somos Buenos Aires y el Frente de Izquierda, con el 5,26% y
 
 **¿Cómo quedaron conformadas las cámaras?**
 
-![Cámara de Diputados provinciales]()
+![Cámara de Diputados provinciales](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/camara-diputados.jpg)
 
 La Cámara de Diputados quedí conformada por 39 bancas pertenecientes a Fuerza Patria, quienes estarán a ocho legisladores de alcanzar el quórum, y 31 pertenecientes a LLA, quienes se consagraron como la segunda fuerza del recinto. Luego aparece Somos buenos Aires con seis escaños, Hechos con tres y el FIT-U con dos. Las 11 bancas restantes pertenecen a otros partidos.
 
-![Cámara de Senadores pronvinciales]()
+![Cámara de Senadores pronvinciales](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/camara-senadores.jpg)
 
 La Cámara de Senadores, por su parte, pasará a estar integrada de la siguiente manera: el peronismo logró quedarse con un total de 24 bancas, lo que le asegura quórum propio y La Libertad Avanza se hizo de 15 escaños. Somos Buenos Aires logró hacerse de tres puestos en el recinto. Las cuatro bancas restantes pertenecen a otros partidos.
 
