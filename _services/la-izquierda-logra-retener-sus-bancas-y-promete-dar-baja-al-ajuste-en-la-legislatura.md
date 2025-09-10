@@ -1,5 +1,5 @@
 ---
-title: "El Frente de Izquierda y de los Trabajadores Unidad ya decidió con quiénes avanza para las legislativas"
+title: "La izquierda logra retener sus bancas y promete dar de baja al ajuste en la legislatura"
 date: 2025-09-10T14:24:46+10:00
 weight: 1
 ---
