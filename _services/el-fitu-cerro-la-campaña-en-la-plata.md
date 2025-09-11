@@ -2,7 +2,7 @@
 title: "El Frente de Izquierda cerró su campaña en La Plata"
 date: 2025-09-06T15:14:39+10:00
 layout: post
-{{ page.date | date: "%d/%m/%Y" }}
+{{page.date | date: "%d/%m/%Y"}}
 weight: 9
 ---
 El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la **Plaza Moreno, La Plata**
