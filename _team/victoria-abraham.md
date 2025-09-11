@@ -1,7 +1,7 @@
 ---
 title: "Victoria Abraham"
 date: 2018-11-19T10:47:58+10:00
-jobtitle: "Estudiante"
+jobtitle: "Estudiante de Periodismo"
 weight: 7
 ---
 
