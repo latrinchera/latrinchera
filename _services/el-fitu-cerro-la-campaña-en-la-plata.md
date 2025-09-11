@@ -4,7 +4,7 @@ date: 2025-09-06T15:14:39+10:00
 layout: post
 weight: 9
 ---
-<h6>El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la **Plaza Moreno, La Plata**
+<h3> El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la **Plaza Moreno, La Plata**
 
 ![Seguidores en el cierre de campaña en La Plata](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/gente-con-banderas.jpg)
 > La campaña del Frente de Izquierda Unidad llama a recorrer las calles de La Plata en los luagres de trabajo y de estudio
