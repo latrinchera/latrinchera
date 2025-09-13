@@ -42,7 +42,7 @@ Más atrás quedaron **Somos Buenos Aires** y el **Frente de Izquierda**, con el
 
 La **Cámara de Diputados** quedó conformada por **39 bancas** pertenecientes a **Fuerza Patria**, quienes estarán a ocho legisladores de alcanzar el quórum, y **31** pertenecientes a **LLA**, quienes se consagraron como la segunda fuerza del recinto. Luego aparece **Somos Buenos Aires** con **seis escaños**, **Hechos** con **tres** y el **FIT-U** con **dos**. Las **11 bancas** restantes pertenecen a **otros partidos**.
 
-<div class="flourish-embed flourish-parliament" data-src="visualisation/25117514"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25117514/thumbnail" width="100%" alt="parliament visualization" /></noscript></div>
+![Senadores](<div class="flourish-embed flourish-parliament" data-src="visualisation/25117514"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25117514/thumbnail" width="100%" alt="parliament visualization" /></noscript></div>)
 
 ![Cámara de Senadores pronvinciales](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/camara-senadores.jpg)
 > Composición de la Cámara de Senadores bonaerenses a partir de diciembre
