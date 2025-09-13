@@ -37,7 +37,7 @@ Más atrás quedaron **Somos Buenos Aires** y el **Frente de Izquierda**, con el
 
 **¿Cómo quedaron conformadas las cámaras?**
 
-![Cámara de Diputados provinciales](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/camara-diputados.jpg)
+<iframe src='https://flo.uri.sh/visualisation/25117864/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/25117864/?utm_source=embed&utm_campaign=visualisation/25117864' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 > Composición de la Cámara de Diputados bonaerense a partir de Diciembre.
 
 La **Cámara de Diputados** quedó conformada por **39 bancas** pertenecientes a **Fuerza Patria**, quienes estarán a ocho legisladores de alcanzar el quórum, y **31** pertenecientes a **LLA**, quienes se consagraron como la segunda fuerza del recinto. Luego aparece **Somos Buenos Aires** con **seis escaños**, **Hechos** con **tres** y el **FIT-U** con **dos**. Las **11 bancas** restantes pertenecen a **otros partidos**.
