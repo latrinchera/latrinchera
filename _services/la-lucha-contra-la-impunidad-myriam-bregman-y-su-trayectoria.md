@@ -1,5 +1,5 @@
 ---
-title: "El Frente de Izquierda y de los Trabajadores Unidad ya decidió con quiénes avanza para las legislativas"
+title: ""El Frente de Izquierda y de los Trabajadores Unidad ya decidió con quiénes avanza para las legislativas""
 date: 2025-08-26T12:33:46+10:00
 weight: 2
 bodyClass: "page-service"
