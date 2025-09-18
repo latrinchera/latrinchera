@@ -1,20 +1,30 @@
 ---
-title: ""El Frente de Izquierda y de los Trabajadores Unidad ya decidió con quiénes avanza para las legislativas""
-date: 2025-08-26T12:33:46+10:00
-weight: 2
+title: ""La lucha contra la impunidad: Myriam Bregman y su trayectoria""
+date: 2025-09-17T20:50:46+10:00
+weight: 1
 bodyClass: "page-service"
 ---
-El pasado 7 de agosto presentaron ante la Justicia Electoral las alianzas y las listas para las elecciones del 26 de octubre. Se unieron: el Moviento Socialista de los Trabajadores (MST), con el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO) y la Izquierda Socialista (IS).
+**La "Rusa"**, como le dicen sus compañeros, tiene 53 años y nació en Timore, un pueblo rural en la Provincia de Buenos Aires. **Se mudó a sus 18 años a la Ciudad de Buenos Aires para estudiar abogacía en la UBA** y se graduó en los 90. Durante esa época, comenzó junto con otros profesionales **la red de abogados Centro de Profesionales por los Derechos Humanos**, que prestaban ayuda judicial para aquellos compañeros que eran detenidos en las movilizaciones.
 
-Para la Ciudad de Buenos Aires definieron para la lista a diputados nacionales a Cele Fierro junto a Myriam Bregman. Por su parte, para la Provincia de Buenos Aires, Alejandro Bodart y Ana Paredes Landman, acompañados de otros referentes de los partidos del frente unido, con la mente puesta en priorizar los derechos humanos, sociales, sindicales, feministas, del activismo socioambiental, entre otros.
+Más adelante, surgió un nuevo propósito para ella que fue "[la luhca contra la impunidad](https://www.myriambregman.com.ar/conocenos.php)", y comenzó a participar de una serie de juicios para **evitar que los orquestadores de la última dictadura militar quedaran libres**. Fue así que apoyó a la mayor cantidad posible de familias que denunciaban desaparecidos en los siguientes años de su carrera. El caso más destacado en el que participó fue en la defensa de Julio López, quien fue detenido y desaparecido durante la dictadura. Cuando iba a prestar testimonio en el juicio contra su captor en 2006, desapareció nuevamente sin dejar rastro.
 
-Cele Fierro, dirigente del MST, **cuestinó en la presentación la alianza entre el PRO y La Libertad Avanza** y declaró: "Insistimos que desde el Frente de Izquierda somos la única fuerza que no se vende ni transa, que está siempre del mismo lado: el de los trabajadores, la juventud y el pueblo que la pelea todos los días. Ese es el verdadero voto que castiga a los poderosos".
+Como explica en su libro, ella cree firmemente que **"ninguna lucha es individual, toda lucha es colectiva"**. Varias de esas causas siguen vigentes hasta el día de hoy. También intervino en casos de gatillo fácil y represión policial.
 
-![Bregman y Fierro 2025](https://latrinchera.github.io/latrinchera/bregman-y-fierro.jpg)
-> Celo Fierro junto a Myriam Bregman, candidatas a diputadas por la Ciudad.
+Bregman tiene ideales trotskistas (la "Troska", la apodan), y es integramente del **Partido de Los Trabajadores Socialistas (PTS)**. Además, es una feminista socialista y está en **Pan y Rosas** desde 2003, el momento de su fundación, junto a su amiga **Andrea D'Atri**. Además, se identifica con **el comunismo, el anticapitalismo y el marxismo**. Cree en una sociedad que canalice todas las luchas sociales, "luchas de clase", y pi+ueda cambiar la estructura para **salir del capitalismo "opresor"**: es fuertemente revolucionaria.
 
+Es una mujer que **dedicó su vida a las causas sociales**, a defender a las mujeres, a luchar contra el patriarcado, a reivindicar la lucha de las familias de detenidos-desaparecidos, a denunciar el negacionismo y a **plantar sus ideales de una sociedad radicalmente distinta**. Para lograr eso, fue legisladora en la Ciudad de Buenos Aires, se presentó a diputada nacional por la Provincia de Buenos Aires (Electa en 2025) y a presidente, para las elecciones de 2023. Actualmente, se presenta con el FIT-U como diputada nacional por C.A.B.A.
 
-Esta gran alianza entre los partidos de izquierda se realizó con el principal objetivo de consolidarse como alternativa al gobierno de Javier Milei y a la oposicón representada por el Partido Justicialista. Por su parte, Bodart, candidato en PBA, **denunció una complicidad del PJ con el oficialismo:** "En el Congreso han dejado correr muchas de las leyes de Milei. No sirven para frenar a este gobierno liberfacho". El dirigente pidió fortaleceer al FIT Unidad como forma rela de expresar el descontento social.
+Un de las luchas que defiende es la de los **jubilados**. Cuando se enfrentó a Alberto Fernández por haberles hecho perder el 50% de su poder adquisitivo, le contestaron que con esa fórmula iba a perder. Ante eso, ella expresa: "Eso es absurdo, porque **ninguna de las peleas grandes empieza con grandes mayorías**. Aunque no consiga muchos votos y no ocupen muchas bancas, considera que su lucha comienza desde abajo y que es necesaria su representación.
+
+Muestra una fuerte oposición no solo al oficialismo libertario, sino también **al peronismo, que considera que abraza las luchas sociales para institucionalizarlas y apagarlas**. Ella propone utilizar **"la palabra zurda como una bandera de lucha"**, coo dijo en la presentación de su libro *Zurda*. Así logra plantarse frente a los insultos de Javier Milei y usar esa agresión a su favor, ya que **"Si alguien no se llamaba a sí mismo zurdo, ahora empezamos a hacerlo"**.
+
+Sin embargo, no permite que sus ideales contrarios a los candidatos libertarios o peronistas se interponga en su relación con la gente. "No nos eligieron a nosotros, no nos votaron a nosotros. **Pero nuestra obligación es ser representantes**, el ser parte de una fuerza de isquierda es estar ahí, es estar acompañando": aunque un trabajador no la haya elegido, su deberr es velar por su bienestar y sus derechos.
+
+**"Todos los jóvenes que perdieron la vida en luchas por derechos humanos no estaban ahí por algo individual**, y es eso lo que representa ser de izquierda. Muchos insisten en que los jóvenes se pasaron a la extrema derecha", pero ella refuta: "¿Cómo? ¿Antes la juventud era de izquierda, ahora es toda de derecha? No nos van a convencer de que de un día para el otro la juventud pierde todos sus valores, pierde todos sus principios".
+
+Lo que sí cree es que el país quedó muy mal luego de la presidencia de Alberto Fernández y le parece que "detrás de esa pregunta también se esconde una intención de no hacer balance de lo que fueron los últimos gobiernos, **de por qué la juventud se volvió escéptica** y vino uno que le decía 'voy a arrasar con todo, con la motosierra en mano'", explica, y luego continúa: "Incluso muchos pibes y muchas pibas lo votaron. **Yo no justifico ese voto. pero pienso profundamente qué lo provocó**".
+
+Para Bregman la banca no es un espacio de privilegios, ella misma dice que "**nunca va a haber uno de nosotros que útilice las bancas como trampolín para una carrera política individual**". Su tarea como diputada de la Nación, como representante del partido obrero y como dirigente de diversas luchas sociales es "**estar para los trabajadores**" incluso aquellos que no la hayan elegido. La lucha contra la impunidad comenzó desde las aulas de la Facultad de Derecho y continúa en las calles, nunca como un individuo, sino como parte de un compromiso colectivo.
 <!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
