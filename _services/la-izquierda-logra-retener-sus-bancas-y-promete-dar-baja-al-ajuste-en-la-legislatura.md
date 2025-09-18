@@ -48,6 +48,10 @@ La **Cámara de Diputados** quedó conformada por **39 bancas** pertenecientes a
 La **Cámara de Senadores**, por su parte, pasará a estar integrada de la siguiente manera: el **peronismo** logró quedarse con un total de **24 bancas**, lo que le asegura quórum propio y **La Libertad Avanza** se hizo de **15 escaños**. **Somos Buenos Aires** logró hacerse de **tres puestos** en el recinto. Las **cuatro bancas** restantes pertenecen a **otros partidos**.
 
 El escenario político se volverá a poner en juego en las **elecciones del 26 de octubre**. En esa instancia se renovarán **127 bancas de la Cámara de Diputados de la Nación y 24 del Senado**. 
+
+<span class="fecha">10 de septiembre de 2025</span>
+
+
 <!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
