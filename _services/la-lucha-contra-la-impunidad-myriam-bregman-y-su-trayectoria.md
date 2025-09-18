@@ -1,9 +1,12 @@
 ---
-title: ""La lucha contra la impunidad: Myriam Bregman y su trayectoria""
+title: "La lucha contra la impunidad: Myriam Bregman y su trayectoria"
 date: 2025-09-17T20:50:46+10:00
 weight: 1
 bodyClass: "page-service"
 ---
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRw4J0ubUIFVGP3YP-FfGpVVSyE4f1EaYeHREYLc_4vICt31Rm2pLwbjFckZyoOiY3mGyYOgioG6bjR&font=Default&lang=es&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 **La "Rusa"**, como le dicen sus compañeros, tiene 53 años y nació en Timore, un pueblo rural en la Provincia de Buenos Aires. **Se mudó a sus 18 años a la Ciudad de Buenos Aires para estudiar abogacía en la UBA** y se graduó en los 90. Durante esa época, comenzó junto con otros profesionales **la red de abogados Centro de Profesionales por los Derechos Humanos**, que prestaban ayuda judicial para aquellos compañeros que eran detenidos en las movilizaciones.
 
 Más adelante, surgió un nuevo propósito para ella que fue "[la luhca contra la impunidad](https://www.myriambregman.com.ar/conocenos.php)", y comenzó a participar de una serie de juicios para **evitar que los orquestadores de la última dictadura militar quedaran libres**. Fue así que apoyó a la mayor cantidad posible de familias que denunciaban desaparecidos en los siguientes años de su carrera. El caso más destacado en el que participó fue en la defensa de Julio López, quien fue detenido y desaparecido durante la dictadura. Cuando iba a prestar testimonio en el juicio contra su captor en 2006, desapareció nuevamente sin dejar rastro.
