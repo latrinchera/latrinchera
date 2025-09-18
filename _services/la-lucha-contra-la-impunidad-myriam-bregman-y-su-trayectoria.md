@@ -15,6 +15,9 @@ Como explica en su libro, ella cree firmemente que **"ninguna lucha es individua
 
 Bregman tiene ideales trotskistas (la "Troska", la apodan), y es integrante del **Partido de Los Trabajadores Socialistas (PTS)**. Además, es una feminista socialista y está en **Pan y Rosas** desde 2003, el momento de su fundación, junto a su amiga **Andrea D'Atri**. Sumado a ello, se identifica con **el comunismo, el anticapitalismo y el marxismo**. Cree en una sociedad que canalice todas las luchas sociales, "luchas de clase", y pueda cambiar la estructura para **salir del capitalismo "opresor"**: es fuertemente revolucionaria.
 
+![Pan y rosas](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/Pan%20y%20rosas.jpg)
+>Myriam Bregman en la marcha por el 8 de Marzo, de la mano de Pan y Rosas |Imagen extraída de La Izquierda Diario
+
 Es una mujer que **dedicó su vida a las causas sociales**, a defender a las mujeres, a luchar contra el patriarcado, a reivindicar la lucha de las familias de detenidos-desaparecidos, a denunciar el negacionismo y a **plantar sus ideales de una sociedad radicalmente distinta**. Para lograr eso, fue legisladora en la Ciudad de Buenos Aires, se presentó a diputada nacional por la Provincia de Buenos Aires (electa en 2025) y a presidente, para las elecciones de 2023. Actualmente, se presenta con el FIT-U como diputada nacional por C.A.B.A.
 
 Una de las luchas que defiende es la de los **jubilados**. Cuando se enfrentó a Alberto Fernández por haberles hecho perder el 50% de su poder adquisitivo, le contestaron que con esa fórmula iba a perder. Ante eso, ella expresa: "Eso es absurdo, porque **ninguna de las peleas grandes empieza con grandes mayorías**". Aunque no consiga muchos votos y no ocupen muchas bancas, considera que su lucha comienza desde abajo y que es necesaria su representación.
