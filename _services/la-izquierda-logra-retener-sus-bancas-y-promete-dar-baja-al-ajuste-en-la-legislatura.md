@@ -49,8 +49,6 @@ La **Cámara de Senadores**, por su parte, pasará a estar integrada de la sigui
 
 El escenario político se volverá a poner en juego en las **elecciones del 26 de octubre**. En esa instancia se renovarán **127 bancas de la Cámara de Diputados de la Nación y 24 del Senado**. 
 
-<span class="fecha">10 de septiembre de 2025</span>
-
 
 <!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
