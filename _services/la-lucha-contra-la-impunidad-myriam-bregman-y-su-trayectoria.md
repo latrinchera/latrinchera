@@ -1,7 +1,7 @@
 ---
 title: "La lucha contra la impunidad: Myriam Bregman y su trayectoria"
 date: 2025-09-17T20:50:46+10:00
-weight: 1
+weight: 21
 bodyClass: "page-service"
 ---
 <div align="right">
