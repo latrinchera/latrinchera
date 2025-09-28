@@ -3,8 +3,6 @@ title: "La lucha contra la impunidad: Myriam Bregman y su trayectoria"
 date: 2025-09-17T20:50:46+10:00
 weight: 1
 bodyClass: "page-service"
----
-
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
@@ -40,9 +38,6 @@ Lo que sí cree es que el país quedó muy mal luego de la presidencia de Albert
 
 Para Bregman, la banca no es un espacio de privilegios, ella misma dice que "**nunca va a haber uno de nosotros que utilice las bancas como trampolín para una carrera política individual**". Su tarea como diputada de la Nación, como representante del partido obrero y como dirigente de diversas luchas sociales es "**estar para los trabajadores**" incluso aquellos que no la hayan elegido. La lucha contra la impunidad comenzó desde las aulas de la Facultad de Derecho y continúa en las calles, nunca como un individuo, sino como parte de un compromiso colectivo.
 
-<div align="right">
-  <small><em>Fecha de publicación: 28 de septiembre, 2025</em></small>
-</div>
 <!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
