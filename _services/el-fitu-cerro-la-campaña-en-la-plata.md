@@ -1,7 +1,7 @@
 ---
 title: "El Frente de Izquierda cerró su campaña en La Plata"
 date: 2025-09-06T15:14:39+10:00
-weight: 9
+weight: 23
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
