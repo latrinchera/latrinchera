@@ -4,6 +4,10 @@ date: 2025-09-03T10:13:46+10:00
 weight: 11
 bodyClass: "page-service"
 ---
+<div align="right">
+  <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
+</div>
+
 El gobierno logró el fallo para impedir la circulación de más grabaciones de voz, a su vez, el Ministerio de Seguridad denunció un supuesto "espionaje ilegal".
 
 Este martes el Gobierno logró un polémico fallo que prohibió la difusión de los audios de Karina Milei en cualquier medio de comunicación. La medida fue aprobada por **Alejandro Maraniello**, juez Civil y Comercial, cuyo perfil fue investigado por la prensa y descubrieron **nueve denuncias previas en su contra, cinco de ellas por abuso sexual**.
