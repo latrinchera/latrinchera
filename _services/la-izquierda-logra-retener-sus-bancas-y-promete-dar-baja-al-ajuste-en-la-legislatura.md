@@ -3,6 +3,10 @@ title: "La izquierda logra retener sus bancas y promete dar de baja al ajuste en
 date: 2025-09-10T14:24:46+10:00
 weight: 3
 ---
+<div align="right">
+  <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
+</div>
+
 El Frente de Izquierda y de los Trabajadores - Unidad (FIT-U) logró entrar a la legislatura bonaerense y buscará frenar el avance de la motosierra en la provincia.
 
 ![FIT-U](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/el-fitu.jpg)
