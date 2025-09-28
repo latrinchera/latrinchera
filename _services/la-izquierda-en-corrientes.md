@@ -1,7 +1,7 @@
 ---
 title: "La izquierda en Corrientes"
 date: 2025-09-03T21:17:46+10:00
-weight: 10
+weight: 24
 bodyClass: "page-service"
 ---
 <div align="right">
