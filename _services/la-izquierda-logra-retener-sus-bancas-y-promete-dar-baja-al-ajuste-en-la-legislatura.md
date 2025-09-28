@@ -1,7 +1,7 @@
 ---
 title: "La izquierda logra retener sus bancas y promete dar de baja al ajuste en la legislatura"
 date: 2025-09-10T14:24:46+10:00
-weight: 3
+weight: 22
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
