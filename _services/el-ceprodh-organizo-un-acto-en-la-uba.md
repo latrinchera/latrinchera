@@ -7,12 +7,12 @@ weight: 20
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
-Este 23 de septiembre el Centro de Profesionales por los Derechos Humanos en la Facultad de Derecho llamaron a un encuentro para exponer causas que convocaban a la candidata de izquierda y a su vez fomentar el voto por su lista. Hablaron más de 20 personalidades destacadas que simpatizan con el Frente de Izquierda.
+Este 23 de septiembre el **Centro de Profesionales por los Derechos Humanos en la Facultad de Derecho** llamaron a un encuentro para exponer causas que convocaban a la candidata de izquierda y a su vez fomentar el voto por su lista. Hablaron más de 20 personalidades destacadas que simpatizan con el **Frente de Izquierda**.
 
 ![Seguidores en el cierre de campaña en La Plata](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/gente-con-banderas.jpg)
 > La campaña del Frente de Izquierda Unidad llama a recorrer las calles de La Plata en los luagres de trabajo y de estudio
 
-En el encuentro participaron Myriam Bregman, Christian Castillo, Alejandrina Barry (ex legisladora porteña), Elsa Pavón (Abuela de Plaza de Mayo), Patricia Walsh (ex diputada nacional), Marta Ungaro (Hermana de desaparecido), Carlos Lordkipanidse (fue detenido en la ESMA), Paula Topasso (Miembro de APDH), Carlos Rodríguez (ex periodista de Página12), Raquel Robles (Fundadora de H.I.J.O.S) y ex trabajadores del Hospital Posadas, Georgalos y de Secco, entre otros.
+En el encuentro participaron **Myriam Bregman**, **Christian Castillo**, **Alejandrina Barry** (ex legisladora porteña), **Elsa Pavón** (Abuela de Plaza de Mayo), **Patricia Walsh** (ex diputada nacional), **Marta Ungaro** (Hermana de desaparecido), **Carlos Lordkipanidse** (fue detenido en la ESMA), **Paula Topasso** (Miembro de APDH), **Carlos Rodríguez** (ex periodista de Página12), **Raquel Robles** (Fundadora de H.I.J.O.S) y ex trabajadores del Hospital Posadas, Georgalos y de Secco, entre otros.
 
 Los principales ejes del encuentro rondaron entre la memoria y resistencia a las "violencias actuales" como en Palestina, la lucha obrera y sobre cómo ser la oposición política. Una de las intervenciones más destacadas fue la de Raquel Robles, quien acentuó que ganar las elecciones no es el punto, sino que "hay un imperativo ético que hay cosas que hay que hacer", más allá del resultado. Desacreditó lo que habían dicho antes otros oradores y desestimó las movilizaciones en las calles porque "es quedarse sin un montón de otras estrategias que para mí son fundamentales", aclara Robles. 
 
