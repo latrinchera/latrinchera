@@ -1,5 +1,5 @@
 ---
-title: "El CeProDH organizó un acto en la UBA para reivindicar porque las personas deben votar a Myriam Bregman para diputada nacional"
+title: "El CeProDH organizó un acto en la UBA para reivindicar por qué las personas deben votar a Myriam Bregman para diputada nacional"
 date: 2025-09-24T15:14:39+10:00
 weight: 20
 ---
