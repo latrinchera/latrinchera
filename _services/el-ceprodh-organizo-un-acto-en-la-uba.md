@@ -1,7 +1,7 @@
 ---
-title: "El Frente de Izquierda cerró su campaña en La Plata"
-date: 2025-09-06T15:14:39+10:00
-weight: 23
+title: "El CeProDH organizó un acto en la UBA para reivindicar porque las personas deben votar a Myriam Bregman para diputada nacional"
+date: 2025-09-24T15:14:39+10:00
+weight: 20
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
