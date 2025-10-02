@@ -1,117 +1,46 @@
 ---
-title: "El Frente de Izquierda cerró su campaña en La Plata"
-date: 2025-09-06T15:14:39+10:00
-weight: 23
+title: "La campaña del FIT-U: Análisis de las principales propuestas"
+date: 2025-10-02T15:14:39+10:00
+weight: 19
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
-El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la **Plaza Moreno, La Plata**
+Los espacios de campaña del Frente de Izquierda son en primer lugar las calles, luego las redes sociales y diarios afines y entrevistas, dirigidos a captar votantes, y mítines de los que solo participan personas alineadas a la ideología que discuten cómo llevar a cabo la campaña y en la praxis coinciden con la democracia jeffersoniana de que la mejor manera de captar a un elector es educarlo. Dialogar con él aunque piense diferente.
 
-![Seguidores en el cierre de campaña en La Plata](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/gente-con-banderas.jpg)
-> La campaña del Frente de Izquierda Unidad llama a recorrer las calles de La Plata en los luagres de trabajo y de estudio
+Francisco Ayala, publicista del FIT-U le dijo al equipo de La trinchera que el público objetivo del frente siempre son los trabajadores, pero que las propuestas y quienes van a los lugares cambian dependiendo en qué sitio y que lucha transitan.
 
-Desde las tres de la tarde, frente al Palacio Municipal, tuvo lugar el **acto de cierre de campaña de la izquierda**. Integrado por el Movimiento Socialista de los Trabajadores (MST), el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO), Vientos del Pueblo e Izquierda Socialista, la plaza reunió militantes y simpatizantes del partido.
+Sus propuestas parecerían abarcar todos los ámbitos como destacó Romina del Plá “es la expresión política de todas las luchas en curso” a mediados de julio cuando se presentó la lista nacional y de la Provincia de Buenos Aires  para las elecciones legislativas.
 
-El acto empezó con **Laura Cano** reafirmando que "fue una campaña pulmón", que se desarrolló en un contexto adverso a los partidos de izquierda autogestionados. Para las elecciones legislativas, el frente de izquierda se presentó con una lista "llena de laburantes", según Cano.
+**Economía**
 
-esta idea estuvo presente en los testimonios de los asistentes. **Luana Simioni**, primera candidata concejal en La Plata, habló con el equipo de **La Trinchera**, y remarcó que "es una elección rara porque partieron la provincia en ocho pedazos. Antes, para votar en un diputado nacional, tenías un cuerpo de la boleta que unificaba la provincia. Ahora, al no estar solo, se obligó a regionalizar". Por esta razón, la estrategia de campaña del FIT-U se enfocó en "caminar junto con candidatos locales", señaló  Simioni.
+Su plan económico es no pagar la deuda con el FMI y destinar ese dinero a un Fondo de Reconversión Social para salarios, empleo y crear servicios como viviendas. Proponen estatizar todas las empresas, constituyendo directorios mixtos por trabajadores, técnicos, universitarios y representantes de las comunidades afectadas para que no haya fuga de capitales, además de nacionalizar las bancas y el comercio exterior. Plantean que las asambleas de rendición de cuentas sean abiertas a los ciudadanos para decidir las prioridades de inversión en conjunto. Así los servicios esenciales se extenderían a todos los hogares.
 
-"En la plata hicieron una campaña local intensa en la que recorrieron mucho", continúe la candidata concejal, "En la tercera sección, que hay muchos municipios, caminaron mucho junto con candidatos locales que suelen ser personas de sectores precarizados". el objetivo de estas caminatas fue Establecer un **punto de contacto entre los votantes y candidatos**, y captar a los que no saben que votar y a los desencantados con el gobierno de turno.
+Sugieren que la jornada laboral sea de 6 horas 5 días a la semana para combatir el desempleo y la  sobrecarga horaria y que el salario mínimo sea equivalente a la canasta familiar y todos se ajusten por inflación al igual que las jubilaciones, pero con la adopción inmediata del 82% móvil. A su vez proponen la prohibición de despidos y suspensiones. 
 
-![Luana Simioni](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/lucia-simioni.JPG)
-> Luana Simioni, dirigente del PTS yreferente deel Frente de Izquierda Unidad en La Plata
+**Materia ambiental**
 
-**Franco Rapanelli**, segundo en la lista de candidatos a concejales en La Plata, planteó que "la izquierda aparece como una alternativa que interviene en la cotidianeidad, y nuestras listas están integradas por compañeros que intervienen en esas luchas". Para Rapanelli, el Gobierno actual es incompatible con las necesidades básicas de la población. En su opinión, **el oficialismo y el peronismo llevaron a cabo ajustes que alimentaron el descontento popular**.
+Rechazan la megaminería, el fracking, el uso indiscriminado de agrotóxicos y a la compañía multinacional Barrick Gold y el acuerdo YPF-Chevron. Sin embargo, apuestan por una reconversión hacia una matriz energética renovable con los recursos recuperados y procuran un plan de reforma agraria apoyado en créditos blandos y asistencia técnica de pequeños productores.
 
-![Franco Rapanelli](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/franco-rapanelli.jpg)
-> Franco Rapanelli, docente y delegado de Suteba, referente del PO.
+**Problema habitacional**
 
-Para ambos candidatos, este descontento fue el responsable de la baja participación electoral. Simioni argumentó que "hay una juventud menos defensora de las ideas de Miley, que defiende valores que el presidente ataca". Justamente, **el FIT-U tiene una base electoral compuesta por jóvenes universitarios y jubilados**, y, en la decepción de estos sectores por las políticas agresivas del Gobierno, encuentra una oportunidad: "La izquierda es una opción rápida, un vehículo para ayudar a que la juventud rompa con las ideas de la derecha". 
+Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el salario y un impuesto especial a las viviendas vacías, además de poner impuestos progresivos a las viviendas ociosas y elevar los impuestos a las grandes inversiones inmobiliarias. Con obras públicas proyectan urbanizar barrios informales y crear unas casas especiales con containers para víctimas de violencia de género.
 
-Para el segundo en la lista, la baja participación también tiene que ver con "un desconocimiento de lo que se vota". "Quedarte en tu casa no sirve para nada, van a seguir gobernando los mismos de siempre, canaliza la decepción de los que te han traicionado por la izquierda, qué es el verdadero cambio y voto útil", afirmó.
+El panfleto de las propuestas tiene una clara jerarquía, comienzan diciendo los problemas que existen, comparan datos numéricos, amplían detallando quienes fueron los responsables ya sea empresarios o políticos que se remontan hasta la época de Menem y continúan con sus propuestas. El mensaje negativo ya es identitario del partido.
 
-Las **propuestas de campaña** vocalizadas en Plaza Moreno tuvieron un eje claro: que haya un **control popular** en los principales resortes de los municipios. También proponen una **reducción de la jornada laboral** a seis horas cinco días de la semana para crear un cuarto turno; capacitación docente para que la **ESI sea un contenido transversal y obligatorio; estilizar el sistema de transporte**; y que **las inmobiliarios y constructoras paguen un impuesto extraordinario** para poder llevar adelante un plan de viviendas en los barrios, entre otras.
-<!--Se subirá el 23 de octubre de 2025 -->
-<!--Business advisory is the final tier of the accounting pyramid.-->
-<!--more-->
+Si bien todos los politólogos coinciden en que “no hay dos campañas iguales” la izquierda parece ignorar esta afirmación por casi 10 años, pues en la parte de propuestas de la página oficial del FIT-U se lee que los legisladores “cobran más de 150 mil pesos por mes.”  Esto no es así desde 2016. En la actualidad, la dieta corresponde a casi 5 mil dólares, o sea más de 6 millones de pesos en el cambio actual. Al menos para la izquierda las propuestas siguen siendo las mismas desde 2016. Además, todos los videos que aparecen en la página tienen una vigencia de 2 años y se les escucha el mismo viejo discurso.
 
-<!--Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Tal vez es que los problemas de la Argentina no cambiaron, como tampoco la izquierda; o, cuando cambian los hechos, la izquierda no cambia sus opiniones, al contrario de lo que decía Winston Churchill, o no tengan la virtud para adaptarse a la fortuna, como piensa Maquiavelo.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+**Redes**
 
-# Objectives
+Las redes las utilizan más para plantear las propuestas más afines a la coyuntura política actual como la estatización bajo control de trabajadores y usuarios de laboratorios, droguerías y el llamamiento a investigar los casos de corrupción sin privilegios para todos los involucrados debido a la causa del fentanilo adulterado. 
 
-Financial accounting and financial reporting are often used as synonyms.
+En internet se suelen combinar las entrevistas con la reacción en las redes, en donde se ve que el mensaje negativo no siempre es bien recibido. Recientemente Myriam Bregman en una entrevista en Futurock fue blanco de varias críticas por decir que el peronismo “no sirvieron para enfrentar a la derecha con el mismo personal político” por lo que se les cuestionó el rol como oposición.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Dentro del trotskismo, en el blog Leninista Trotskista Internacional se hacían la misma reflexión que Bregman, pero mirando hacía adentro “El PTS que dice pelear por un ‘partido de trabajadores’, ni siquiera permitió que los referentes y luchadores obreros sean los que encabecen sus listas.”
 
-## Relevance
+**Internacional**
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.-->
+En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina y es común que los oradores adoren al unísono con los allí presentes “Palestina vencerá desde el río hasta el mar”. Es el principal eje internacional, tanto que mandaron a pero que en las propuestas escritas no se encuentra. 
