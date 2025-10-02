@@ -17,9 +17,9 @@ De esa manera, sus propuestas parecerían abarcar todos los ámbitos, como desta
 
 **Economía**
 
-Su plan económico es no pagar la deuda con el FMI y destinar ese dinero a un Fondo de Reconversión Social para salarios, empleo y crear servicios como viviendas. Proponen estatizar todas las empresas, constituyendo directorios mixtos por trabajadores, técnicos, universitarios y representantes de las comunidades afectadas para que no haya fuga de capitales, además de nacionalizar las bancas y el comercio exterior. Plantean que las asambleas de rendición de cuentas sean abiertas a los ciudadanos para decidir las prioridades de inversión en conjunto. Así los servicios esenciales se extenderían a todos los hogares.
+Su plan económico consiste en no pagar la deuda con el FMI y destinar ese dinero a un Fondo de Reconversión Social para salarios, empleo y crear servicios como viviendas. Proponen estatizar todas las empresas, y establecer directorios mixtos compuestos por trabajadores, técnicos, universitarios y representantes de las comunidades afectadas para que no haya fuga de capitales. Además, quieren nacionalizar las bancas y el comercio exterior. Plantean que las asambleas de rendición de cuentas deben ser abiertas a los ciudadanos, para decidir las prioridades de inversión en conjunto. Así los servicios esenciales se extenderían a todos los hogares.
 
-Sugieren que la jornada laboral sea de 6 horas 5 días a la semana para combatir el desempleo y la  sobrecarga horaria y que el salario mínimo sea equivalente a la canasta familiar y todos se ajusten por inflación al igual que las jubilaciones, pero con la adopción inmediata del 82% móvil. A su vez proponen la prohibición de despidos y suspensiones. 
+Sugieren que la jornada laboral sea de 6 horas, 5 días a la semana, para combatir el desempleo y la sobrecarga horaria. También, proponen que el salario mínimo sea equivalente a la canasta familiar y que todos se ajusten por inflación al igual que las jubilaciones, pero con la adopción inmediata del 82% móvil. A su vez, impulsan la prohibición de despidos y suspensiones. 
 
 **Materia ambiental**
 
