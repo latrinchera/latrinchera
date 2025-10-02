@@ -7,11 +7,11 @@ weight: 19
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
-Los espacios de campaña del Frente de Izquierda son en primer lugar las calles, luego las redes sociales y diarios afines y entrevistas, dirigidos a captar votantes. También realizan mítines, de los que solo participan personas alineadas a la ideología. Allí discuten cómo llevar a cabo la campaña y en la praxis coinciden con la democracia jeffersoniana de que la mejor manera de captar a un elector es educarlo. Dialogar con él aunque piense diferente.
+Los espacios de campaña del Frente de Izquierda son en primer lugar las calles, luego las redes sociales y diarios afines y entrevistas, dirigidos a captar votantes. También realizan mítines, de los que solo participan personas alineadas a la ideología. Allí discuten cómo llevar a cabo la campaña y en la praxis coinciden con la democracia jeffersoniana de que la mejor manera de captar a un elector es educarlo: dialogar con él aunque piense diferente.
 
-Francisco Ayala, publicista del FIT-U le dijo al equipo de La trinchera que el público objetivo del frente siempre son los trabajadores, pero que las propuestas y quienes van a los lugares cambian dependiendo en qué sitio y que lucha transitan.
+Francisco Ayala, publicista del FIT-U, le dijo al equipo de La trinchera que el público objetivo del frente siempre son los trabajadores, pero que las propuestas y quiénes van a los distintos lugares cambia según que lucha transita ese grupo. Tienen una amplia variedad de propuestas, y le presentan a cada sector las que más le atañen, teniendo en cuenta si son estudiantes universitarios, obreros de fábrica, jubilados, etc.
 
-Sus propuestas parecerían abarcar todos los ámbitos como destacó Romina del Plá “es la expresión política de todas las luchas en curso” a mediados de julio cuando se presentó la lista nacional y de la Provincia de Buenos Aires  para las elecciones legislativas.
+De esa manera, sus propuestas parecerían abarcar todos los ámbitos, como destacó Romina del Plá: “Es la expresión política de todas las luchas en curso”, a mediados de julio, cuando se presentó la lista nacional y de la PBA  para las elecciones legislativas.
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0;"><iframe title="de" frameborder="0" width="800" height="1600" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/68dddc1651867f34d3077db4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
