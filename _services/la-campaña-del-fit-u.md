@@ -31,18 +31,18 @@ Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el
 
 El panfleto de las propuestas tiene una clara jerarquía: comienzan diciendo los problemas que existen, comparan datos numéricos, amplían detallando quiénes fueron los responsables, ya sea empresarios o políticos que se remontan hasta la época de Menem, y continúan con sus propuestas. El mensaje negativo ya es identitario del partido.
 
-Si bien todos los politólogos coinciden en que “no hay dos campañas iguales”, la izquierda parece ignorar esta afirmación por casi 10 años, pues en la parte de propuestas de la página oficial del FIT-U se lee que los legisladores “cobran más de 150 mil pesos por mes.”  Esto no es así desde 2016. En la actualidad, la dieta corresponde a casi 5 mil dólares, o sea más de 6 millones de pesos en el cambio actual. Al menos para la izquierda las propuestas siguen siendo las mismas desde 2016. Además, todos los videos que aparecen en la página tienen una vigencia de 2 años y se les escucha el mismo viejo discurso.
+Si bien todos los politólogos coinciden en que “no hay dos campañas iguales”, la izquierda parece ignorar esta afirmación por casi 10 años, pues en la parte de propuestas de la página oficial del FIT-U se lee que los legisladores “cobran más de 150 mil pesos por mes”.  Esto no es así desde 2016. En la actualidad, la dieta corresponde a más de 6 millones de pesos. Al menos para la izquierda, las propuestas siguen siendo las mismas desde 2016. Además, todos los videos que aparecen en la página tienen una antigüedad de 2 años y se les escucha el mismo viejo discurso.
 
-Tal vez es que los problemas de la Argentina no cambiaron, como tampoco la izquierda; o, cuando cambian los hechos, la izquierda no cambia sus opiniones, al contrario de lo que decía Winston Churchill, o no tengan la virtud para adaptarse a la fortuna, como piensa Maquiavelo.
+Tal vez es que los problemas de la Argentina no cambiaron, como tampoco la izquierda; o, cuando cambian los hechos, la izquierda no cambia sus opiniones, al contrario de lo que decía Winston Churchill. También puede ser que no tengan la virtud para adaptarse a la fortuna, como piensa Maquiavelo.
 
 **Redes**
 
-Las redes las utilizan más para plantear las propuestas más afines a la coyuntura política actual como la estatización bajo control de trabajadores y usuarios de laboratorios, droguerías y el llamamiento a investigar los casos de corrupción sin privilegios para todos los involucrados debido a la causa del fentanilo adulterado. 
+Las redes las utilizan para plantear las propuestas más afines a la coyuntura política actual, como la estatización bajo control de trabajadores y usuarios de laboratorios, droguerías y el llamamiento a investigar los casos de corrupción sin privilegios para todos los involucrados debido a la causa del fentanilo adulterado. 
 
-En internet se suelen combinar las entrevistas con la reacción en las redes, en donde se ve que el mensaje negativo no siempre es bien recibido. Recientemente Myriam Bregman en una entrevista en Futurock fue blanco de varias críticas por decir que el peronismo “no sirvieron para enfrentar a la derecha con el mismo personal político” por lo que se les cuestionó el rol como oposición.
+En internet se suelen combinar las entrevistas con la reacción en las redes, en donde se ve que el mensaje negativo no siempre es bien recibido. Recientemente, Myriam Bregman, en una entrevista en Futurock, fue blanco de varias críticas por decir que el peronismo “no sirvió para enfrentar a la derecha con el mismo personal político”, y les cuestionó el rol como oposición.
 
-Dentro del trotskismo, en el blog Leninista Trotskista Internacional se hacían la misma reflexión que Bregman, pero mirando hacía adentro “El PTS que dice pelear por un ‘partido de trabajadores’, ni siquiera permitió que los referentes y luchadores obreros sean los que encabecen sus listas.”
+Dentro del trotskismo, en el blog Leninista Trotskista Internacional hacían la misma reflexión que Bregman, pero mirando hacía adentro “El PTS que dice pelear por un ‘partido de trabajadores’, ni siquiera permitió que los referentes y luchadores obreros sean los que encabecen sus listas”.
 
 **Internacional**
 
-En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina y es común que los oradores adoren al unísono con los allí presentes *“Palestina vencerá desde el río hasta el mar”*. Es el principal eje internacional, pero que en las propuestas escritas no se encuentra. 
+En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina. Es común que los oradores expresen al unísono con los allí presentes *“Palestina vencerá desde el río hasta el mar”*. Es el principal eje internacional, pero que en las propuestas escritas no se encuentra. 
