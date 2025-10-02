@@ -41,7 +41,7 @@ Las redes las utilizan para plantear las propuestas más afines a la coyuntura p
 
 En internet se suelen combinar las entrevistas con la reacción en las redes, en donde se ve que el mensaje negativo no siempre es bien recibido. Recientemente, **Myriam Bregman**, en una entrevista en Futurock, fue blanco de varias críticas por decir que el peronismo “no sirvió para enfrentar a la derecha con el mismo personal político”, y les **cuestionó el rol como oposición**.
 
-Dentro del trotskismo, en el blog Leninista Trotskista Internacional hacían la misma reflexión que Bregman, pero mirando hacía adentro “El PTS que dice pelear por un ‘partido de trabajadores’, ni siquiera permitió que los referentes y luchadores obreros sean los que encabecen sus listas”.
+Dentro del trotskismo, en el blog Leninista Trotskista Internacional hacían la misma reflexión que Bregman, pero mirando hacía adentro “El PTS que dice pelear por un ‘partido de trabajadores’, **ni siquiera permitió que los referentes y luchadores obreros sean los que encabecen sus listas**”.
 
 **Internacional**
 
