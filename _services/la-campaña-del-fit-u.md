@@ -23,15 +23,15 @@ Sugieren que la jornada laboral sea de 6 horas, 5 días a la semana, para combat
 
 **Materia ambiental**
 
-Rechazan la megaminería, el fracking, el uso indiscriminado de agrotóxicos y a la compañía multinacional Barrick Gold y el acuerdo YPF-Chevron. Sin embargo, apuestan por una reconversión hacia una matriz energética renovable con los recursos recuperados y procuran un plan de reforma agraria apoyado en créditos blandos y asistencia técnica de pequeños productores.
+Rechazan la megaminería, el fracking, el uso indiscriminado de agrotóxicos, y a la compañía multinacional Barrick Gold y el acuerdo YPF-Chevron. Sin embargo, apuestan por una reconversión hacia una matriz energética renovable con los recursos recuperados y procuran un plan de reforma agraria apoyado en créditos blandos y asistencia técnica de pequeños productores.
 
 **Problema habitacional**
 
-Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el salario y un impuesto especial a las viviendas vacías, además de poner impuestos progresivos a las viviendas ociosas y elevar los impuestos a las grandes inversiones inmobiliarias. Con obras públicas proyectan urbanizar barrios informales y crear unas casas especiales con *containers* para víctimas de violencia de género.
+Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el salario y un impuesto especial a las viviendas vacías. En adición,  manifiestan necesario poner impuestos progresivos a las viviendas ociosas y elevar los impuestos a las grandes inversiones inmobiliarias. Con obras públicas, proyectan urbanizar barrios informales y crear unas casas especiales con *containers* para víctimas de violencia de género.
 
-El panfleto de las propuestas tiene una clara jerarquía, comienzan diciendo los problemas que existen, comparan datos numéricos, amplían detallando quienes fueron los responsables ya sea empresarios o políticos que se remontan hasta la época de Menem y continúan con sus propuestas. El mensaje negativo ya es identitario del partido.
+El panfleto de las propuestas tiene una clara jerarquía: comienzan diciendo los problemas que existen, comparan datos numéricos, amplían detallando quiénes fueron los responsables, ya sea empresarios o políticos que se remontan hasta la época de Menem, y continúan con sus propuestas. El mensaje negativo ya es identitario del partido.
 
-Si bien todos los politólogos coinciden en que “no hay dos campañas iguales” la izquierda parece ignorar esta afirmación por casi 10 años, pues en la parte de propuestas de la página oficial del FIT-U se lee que los legisladores “cobran más de 150 mil pesos por mes.”  Esto no es así desde 2016. En la actualidad, la dieta corresponde a casi 5 mil dólares, o sea más de 6 millones de pesos en el cambio actual. Al menos para la izquierda las propuestas siguen siendo las mismas desde 2016. Además, todos los videos que aparecen en la página tienen una vigencia de 2 años y se les escucha el mismo viejo discurso.
+Si bien todos los politólogos coinciden en que “no hay dos campañas iguales”, la izquierda parece ignorar esta afirmación por casi 10 años, pues en la parte de propuestas de la página oficial del FIT-U se lee que los legisladores “cobran más de 150 mil pesos por mes.”  Esto no es así desde 2016. En la actualidad, la dieta corresponde a casi 5 mil dólares, o sea más de 6 millones de pesos en el cambio actual. Al menos para la izquierda las propuestas siguen siendo las mismas desde 2016. Además, todos los videos que aparecen en la página tienen una vigencia de 2 años y se les escucha el mismo viejo discurso.
 
 Tal vez es que los problemas de la Argentina no cambiaron, como tampoco la izquierda; o, cuando cambian los hechos, la izquierda no cambia sus opiniones, al contrario de lo que decía Winston Churchill, o no tengan la virtud para adaptarse a la fortuna, como piensa Maquiavelo.
 
