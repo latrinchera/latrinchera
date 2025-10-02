@@ -7,7 +7,7 @@ weight: 19
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
-Los espacios de campaña del Frente de Izquierda son en primer lugar las calles, luego las redes sociales y diarios afines y entrevistas, dirigidos a captar votantes, y mítines de los que solo participan personas alineadas a la ideología que discuten cómo llevar a cabo la campaña y en la praxis coinciden con la democracia jeffersoniana de que la mejor manera de captar a un elector es educarlo. Dialogar con él aunque piense diferente.
+Los espacios de campaña del Frente de Izquierda son en primer lugar las calles, luego las redes sociales y diarios afines y entrevistas, dirigidos a captar votantes. También realizan mítines, de los que solo participan personas alineadas a la ideología. Allí discuten cómo llevar a cabo la campaña y en la praxis coinciden con la democracia jeffersoniana de que la mejor manera de captar a un elector es educarlo. Dialogar con él aunque piense diferente.
 
 Francisco Ayala, publicista del FIT-U le dijo al equipo de La trinchera que el público objetivo del frente siempre son los trabajadores, pero que las propuestas y quienes van a los lugares cambian dependiendo en qué sitio y que lucha transitan.
 
