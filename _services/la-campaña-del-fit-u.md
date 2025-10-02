@@ -13,6 +13,8 @@ Francisco Ayala, publicista del FIT-U le dijo al equipo de La trinchera que el p
 
 Sus propuestas parecerían abarcar todos los ámbitos como destacó Romina del Plá “es la expresión política de todas las luchas en curso” a mediados de julio cuando se presentó la lista nacional y de la Provincia de Buenos Aires  para las elecciones legislativas.
 
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0;"><iframe title="de" frameborder="0" width="800" height="1600" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/68dddc1651867f34d3077db4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
 **Economía**
 
 Su plan económico es no pagar la deuda con el FMI y destinar ese dinero a un Fondo de Reconversión Social para salarios, empleo y crear servicios como viviendas. Proponen estatizar todas las empresas, constituyendo directorios mixtos por trabajadores, técnicos, universitarios y representantes de las comunidades afectadas para que no haya fuga de capitales, además de nacionalizar las bancas y el comercio exterior. Plantean que las asambleas de rendición de cuentas sean abiertas a los ciudadanos para decidir las prioridades de inversión en conjunto. Así los servicios esenciales se extenderían a todos los hogares.
@@ -26,6 +28,8 @@ Rechazan la megaminería, el fracking, el uso indiscriminado de agrotóxicos y a
 **Problema habitacional**
 
 Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el salario y un impuesto especial a las viviendas vacías, además de poner impuestos progresivos a las viviendas ociosas y elevar los impuestos a las grandes inversiones inmobiliarias. Con obras públicas proyectan urbanizar barrios informales y crear unas casas especiales con containers para víctimas de violencia de género.
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0;"><iframe title="de" frameborder="0" width="800" height="1600" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/68dddc1651867f34d3077db4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 El panfleto de las propuestas tiene una clara jerarquía, comienzan diciendo los problemas que existen, comparan datos numéricos, amplían detallando quienes fueron los responsables ya sea empresarios o políticos que se remontan hasta la época de Menem y continúan con sus propuestas. El mensaje negativo ya es identitario del partido.
 
