@@ -47,4 +47,4 @@ Dentro del trotskismo, en el blog Leninista Trotskista Internacional se hacían 
 
 **Internacional**
 
-En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina y es común que los oradores adoren al unísono con los allí presentes “Palestina vencerá desde el río hasta el mar”. Es el principal eje internacional, tanto que mandaron a pero que en las propuestas escritas no se encuentra. 
+En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina y es común que los oradores adoren al unísono con los allí presentes “Palestina vencerá desde el río hasta el mar”. Es el principal eje internacional, pero que en las propuestas escritas no se encuentra. 
