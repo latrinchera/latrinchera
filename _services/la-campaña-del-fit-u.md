@@ -27,7 +27,7 @@ Rechazan la megaminería, el fracking, el uso indiscriminado de agrotóxicos y a
 
 **Problema habitacional**
 
-Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el salario y un impuesto especial a las viviendas vacías, además de poner impuestos progresivos a las viviendas ociosas y elevar los impuestos a las grandes inversiones inmobiliarias. Con obras públicas proyectan urbanizar barrios informales y crear unas casas especiales con containers para víctimas de violencia de género.
+Plantean una ley de alquileres que beneficie al inquilino, con ajustes según el salario y un impuesto especial a las viviendas vacías, además de poner impuestos progresivos a las viviendas ociosas y elevar los impuestos a las grandes inversiones inmobiliarias. Con obras públicas proyectan urbanizar barrios informales y crear unas casas especiales con *containers* para víctimas de violencia de género.
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0;"><iframe title="de" frameborder="0" width="800" height="1600" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/68dddc1651867f34d3077db4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
@@ -47,4 +47,4 @@ Dentro del trotskismo, en el blog Leninista Trotskista Internacional se hacían 
 
 **Internacional**
 
-En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina y es común que los oradores adoren al unísono con los allí presentes “Palestina vencerá desde el río hasta el mar”. Es el principal eje internacional, pero que en las propuestas escritas no se encuentra. 
+En los mítines, ya sean en las calles o un establecimiento cerrado, siempre se va a encontrar la bandera de Palestina y es común que los oradores adoren al unísono con los allí presentes *“Palestina vencerá desde el río hasta el mar”*. Es el principal eje internacional, pero que en las propuestas escritas no se encuentra. 
