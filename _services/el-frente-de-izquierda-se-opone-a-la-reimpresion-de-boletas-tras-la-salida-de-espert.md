@@ -6,18 +6,18 @@ weight: 18
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
-En medio del escándalo que sacude al oficialismo tras la renuncia de José Luis Espert, acusado de recibir USD $200.000 de una empresa vinculada al narcotraficante Federico “Fred” Machado, dirigentes del Frente de Izquierda presentaron su oposición a la reimpresión de boletas.
+En medio del escándalo que sacude al oficialismo tras la renuncia de **José Luis Espert**, acusado de recibir USD $200.000 de una empresa vinculada al **narcotraficante Federico “Fred” Machado**, dirigentes del **Frente de Izquierda** presentaron su oposición a la reimpresión de boletas.
 
 ![Boleta Única Papel](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/BUP.jpg)
 > La reimpresión de boletas costaría alrededor de 15.000 millones de pesos.
 
-“Junto a Myriam Bregman, y nuestros apoderados, estamos presentando en el Juzgado Federal con competencia electoral en la provincia de Buenos Aires nuestra más firme oposición al insólito y delirante pedido de reimpresión de las boletas únicas por parte de La Libertad Avanza”. Así lo comunicó [Nicolás Del Caño a través de su cuenta de X](https://x.com/NicolasdelCano/status/1975547210809934148). 
+“Junto a **Myriam Bregman**, y nuestros apoderados, estamos presentando en el **Juzgado Federal con competencia electoral en la provincia de Buenos Aires** nuestra más firme oposición al insólito y delirante pedido de reimpresión de las boletas únicas por parte de La Libertad Avanza”. Así lo comunicó [Nicolás Del Caño a través de su cuenta de X](https://x.com/NicolasdelCano/status/1975547210809934148). 
 
-Este pedido por parte del gobierno nacional a la Justicia surge luego de que el presidente designara a Diego Santilli, tercero en la lista libertaria por la provincia de Buenos Aires, como reemplazante de José Luis Espert. En caso de que la Justicia acepte esta petición, se deberán reimprimir 15 millones de boletas, que tendría un costo aproximado de 15.000 millones de pesos. 
+Este pedido por parte del gobierno nacional a la Justicia surge luego de que el presidente designara a **Diego Santilli**, tercero en la lista libertaria por la provincia de Buenos Aires, como reemplazante de José Luis Espert. En caso de que la Justicia acepte esta petición, se deberán reimprimir **15 millones de boletas**, que tendría un costo aproximado de **15.000 millones de pesos**. 
 
-Los representantes del partido libertario no ofrecieron un aporte partidario o privado para cubrir dichos gastos, sino que sostienen que los gastos deberán ser cubiertos por el Ministerio del Interior. 
+Los representantes del partido libertario no ofrecieron un aporte partidario o privado para cubrir dichos gastos, sino que **sostienen que los gastos deberán ser cubiertos por el Ministerio del Interior**. 
 
-Del Caño aseguró que no van a permitir que se ponga en riesgo la democracia ni que se gasten millones de dólares para tapar que postularon como primer candidato a un “narco-diputado”, mientras que el gobierno dice que “no hay plata” para el Garrahan, los jubilados y las universidades.
+**Del Caño** aseguró que no van a permitir que se ponga en riesgo la democracia ni que se gasten millones de dólares para tapar que postularon como primer candidato a un **“narco-diputado”**, mientras que el gobierno dice que “no hay plata” para el **Garrahan, los jubilados y las universidades**.
 
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
