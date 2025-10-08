@@ -13,6 +13,9 @@ En medio del escándalo que sacude al oficialismo tras la renuncia de José Luis
 
 “Junto a **Myriam Bregman**, y nuestros apoderados, estamos presentando en el **Juzgado Federal con competencia electoral en la provincia de Buenos Aires** nuestra más firme oposición al insólito y delirante pedido de reimpresión de las boletas únicas por parte de La Libertad Avanza”. Así lo comunicó [Nicolás Del Caño a través de su cuenta de X](https://x.com/NicolasdelCano/status/1975547210809934148). 
 
+![Tweet Nicolás Del Caño](https://github.com/latrinchera/latrinchera/blob/master/images/tweet_nico_del_cano.png)
+> Nicolás del Caño se plantó, vía X, contra la reimpresión de boletas.
+
 Este pedido por parte del gobierno nacional a la Justicia surge luego de que el presidente designara a **Diego Santilli**, tercero en la lista libertaria por la provincia de Buenos Aires, como reemplazante de José Luis Espert. En caso de que la Justicia acepte esta petición, se deberán reimprimir **15 millones de boletas**, que tendría un costo aproximado de **15.000 millones de pesos**. 
 
 Los representantes del partido libertario no ofrecieron un aporte partidario o privado para cubrir dichos gastos, sino que **sostienen que los gastos deberán ser cubiertos por el Ministerio del Interior**. 
