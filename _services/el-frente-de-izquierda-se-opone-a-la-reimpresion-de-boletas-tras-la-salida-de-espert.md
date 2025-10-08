@@ -1,38 +1,24 @@
 ---
-title: "El Frente de Izquierda cerró su campaña en La Plata"
-date: 2025-09-06T15:14:39+10:00
-weight: 23
+title: "El Frente de Izquierda se opone a la reimpresión de boletas tras la salida de Espert"
+date: 2025-10-07T15:14:39+10:00
+weight: 19
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
+En medio del escándalo que sacude al oficialismo tras la renuncia de José Luis Espert, acusado de recibir USD $200.000 de una empresa vinculada al narcotraficante Federico “Fred” Machado, dirigentes del Frente de Izquierda presentaron su oposición a la reimpresión de boletas.
 
-El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la **Plaza Moreno, La Plata**
+![Boleta Única Papel](jajaj)
+> La reimpresión de boletas costaría alrededor de 15.000 millones de pesos.
 
-![Seguidores en el cierre de campaña en La Plata](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/gente-con-banderas.jpg)
-> La campaña del Frente de Izquierda Unidad llama a recorrer las calles de La Plata en los luagres de trabajo y de estudio
+“Junto a Myriam Bregman, y nuestros apoderados, estamos presentando en el Juzgado Federal con competencia electoral en la provincia de Buenos Aires nuestra más firme oposición al insólito y delirante pedido de reimpresión de las boletas únicas por parte de La Libertad Avanza”. Así lo comunicó [Nicolás Del Caño a través de su cuenta de X](https://x.com/NicolasdelCano/status/1975547210809934148). 
 
-Desde las tres de la tarde, frente al Palacio Municipal, tuvo lugar el **acto de cierre de campaña de la izquierda**. Integrado por el Movimiento Socialista de los Trabajadores (MST), el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO), Vientos del Pueblo e Izquierda Socialista, la plaza reunió militantes y simpatizantes del partido.
+Este pedido por parte del gobierno nacional a la Justicia surge luego de que el presidente designara a Diego Santilli, tercero en la lista libertaria por la provincia de Buenos Aires, como reemplazante de José Luis Espert. En caso de que la Justicia acepte esta petición, se deberán reimprimir 15 millones de boletas, que tendría un costo aproximado de 15.000 millones de pesos. 
 
-El acto empezó con **Laura Cano** reafirmando que "fue una campaña pulmón", que se desarrolló en un contexto adverso a los partidos de izquierda autogestionados. Para las elecciones legislativas, el frente de izquierda se presentó con una lista "llena de laburantes", según Cano.
+Los representantes del partido libertario no ofrecieron un aporte partidario o privado para cubrir dichos gastos, sino que sostienen que los gastos deberán ser cubiertos por el Ministerio del Interior. 
 
-esta idea estuvo presente en los testimonios de los asistentes. **Luana Simioni**, primera candidata concejal en La Plata, habló con el equipo de **La Trinchera**, y remarcó que "es una elección rara porque partieron la provincia en ocho pedazos. Antes, para votar en un diputado nacional, tenías un cuerpo de la boleta que unificaba la provincia. Ahora, al no estar solo, se obligó a regionalizar". Por esta razón, la estrategia de campaña del FIT-U se enfocó en "caminar junto con candidatos locales", señaló  Simioni.
+Del Caño aseguró que no van a permitir que se ponga en riesgo la democracia ni que se gasten millones de dólares para tapar que postularon como primer candidato a un “narco-diputado”, mientras que el gobierno dice que “no hay plata” para el Garrahan, los jubilados y las universidades.
 
-"En la plata hicieron una campaña local intensa en la que recorrieron mucho", continúe la candidata concejal, "En la tercera sección, que hay muchos municipios, caminaron mucho junto con candidatos locales que suelen ser personas de sectores precarizados". el objetivo de estas caminatas fue Establecer un **punto de contacto entre los votantes y candidatos**, y captar a los que no saben que votar y a los desencantados con el gobierno de turno.
-
-![Luana Simioni](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/lucia-simioni.JPG)
-> Luana Simioni, dirigente del PTS yreferente deel Frente de Izquierda Unidad en La Plata
-
-**Franco Rapanelli**, segundo en la lista de candidatos a concejales en La Plata, planteó que "la izquierda aparece como una alternativa que interviene en la cotidianeidad, y nuestras listas están integradas por compañeros que intervienen en esas luchas". Para Rapanelli, el Gobierno actual es incompatible con las necesidades básicas de la población. En su opinión, **el oficialismo y el peronismo llevaron a cabo ajustes que alimentaron el descontento popular**.
-
-![Franco Rapanelli](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/franco-rapanelli.jpg)
-> Franco Rapanelli, docente y delegado de Suteba, referente del PO.
-
-Para ambos candidatos, este descontento fue el responsable de la baja participación electoral. Simioni argumentó que "hay una juventud menos defensora de las ideas de Miley, que defiende valores que el presidente ataca". Justamente, **el FIT-U tiene una base electoral compuesta por jóvenes universitarios y jubilados**, y, en la decepción de estos sectores por las políticas agresivas del Gobierno, encuentra una oportunidad: "La izquierda es una opción rápida, un vehículo para ayudar a que la juventud rompa con las ideas de la derecha". 
-
-Para el segundo en la lista, la baja participación también tiene que ver con "un desconocimiento de lo que se vota". "Quedarte en tu casa no sirve para nada, van a seguir gobernando los mismos de siempre, canaliza la decepción de los que te han traicionado por la izquierda, qué es el verdadero cambio y voto útil", afirmó.
-
-Las **propuestas de campaña** vocalizadas en Plaza Moreno tuvieron un eje claro: que haya un **control popular** en los principales resortes de los municipios. También proponen una **reducción de la jornada laboral** a seis horas cinco días de la semana para crear un cuarto turno; capacitación docente para que la **ESI sea un contenido transversal y obligatorio; estilizar el sistema de transporte**; y que **las inmobiliarios y constructoras paguen un impuesto extraordinario** para poder llevar adelante un plan de viviendas en los barrios, entre otras.
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
 <!--more-->
