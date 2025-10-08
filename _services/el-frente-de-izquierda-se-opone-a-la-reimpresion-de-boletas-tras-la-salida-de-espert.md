@@ -16,7 +16,7 @@ En medio del escándalo que sacude al oficialismo tras la renuncia de José Luis
 <blockquote class="twitter-tweet">
   <a href="https://x.com/NicolasdelCano/status/1975547210809934148"></a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 Este pedido por parte del gobierno nacional a la Justicia surge luego de que el presidente designara a Diego Santilli, tercero en la lista libertaria por la provincia de Buenos Aires, como reemplazante de José Luis Espert. En caso de que la Justicia acepte esta petición, se deberán reimprimir 15 millones de boletas, que tendría un costo aproximado de 15.000 millones de pesos. 
