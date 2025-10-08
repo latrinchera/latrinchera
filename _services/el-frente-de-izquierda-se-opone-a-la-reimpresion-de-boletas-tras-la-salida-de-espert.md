@@ -1,7 +1,7 @@
 ---
 title: "El Frente de Izquierda se opone a la reimpresión de boletas tras la salida de Espert"
 date: 2025-10-07T15:14:39+10:00
-weight: 19
+weight: 18
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
