@@ -8,7 +8,7 @@ weight: 19
 </div>
 En medio del escándalo que sacude al oficialismo tras la renuncia de José Luis Espert, acusado de recibir USD $200.000 de una empresa vinculada al narcotraficante Federico “Fred” Machado, dirigentes del Frente de Izquierda presentaron su oposición a la reimpresión de boletas.
 
-![Boleta Única Papel](jajaj)
+![Boleta Única Papel](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/BUP.jpg)
 > La reimpresión de boletas costaría alrededor de 15.000 millones de pesos.
 
 “Junto a Myriam Bregman, y nuestros apoderados, estamos presentando en el Juzgado Federal con competencia electoral en la provincia de Buenos Aires nuestra más firme oposición al insólito y delirante pedido de reimpresión de las boletas únicas por parte de La Libertad Avanza”. Así lo comunicó [Nicolás Del Caño a través de su cuenta de X](https://x.com/NicolasdelCano/status/1975547210809934148). 
