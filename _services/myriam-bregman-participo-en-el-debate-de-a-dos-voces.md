@@ -9,25 +9,28 @@ weight: 17
 
 La candidata a diputada por el FIT - U apuntó contra Espert y destacó la importancia de los debates.
 
-A 17 días de las elecciones legislativas nacionales, Myriam Bregman se presentó en el debate del programa “A dos voces" en TN, con Edgardo Alfano y Marcelo Bonelli, este miércoles 8 de octubre.
+A **17 días de las elecciones legislativas nacionales, Myriam Bregman** se presentó en el debate del programa **“A dos voces" en TN**, con Edgardo Alfano y Marcelo Bonelli, este miércoles 8 de octubre.
 
-**Myriam Bregman en “A dos voces”**
+![Myriam Bregman en el debate]()
+> Myriam Bregman en “A dos voces”
 
-Primeramente, los periodistas apuntaron a los dichos del abogado Alejandro Fargosi, quien se refirió a Bregman en una publicación en X como “una militante judía en la izquierda”. A raíz de ello, la candidata expresó su deseo de participar en el debate y remarcó la importancia de estos, no solo en programas sino en el propio Congreso, apuntando a distintos dichos por parte de bloques opositores al FIT - U. Además, destacó la apertura que ella y su partido tienen en mantener estos espacios.
+Primeramente, los periodistas apuntaron a los dichos del abogado Alejandro Fargosi, quien se refirió a Bregman en una publicación en X como **“una militante judía en la izquierda”. A raíz de ello, la candidata expresó su deseo de participar en el debate y remarcó la importancia de estos, no solo en programas sino en el propio Congreso**, apuntando a distintos dichos por parte de bloques opositores al FIT - U. Además, destacó la apertura que ella y su partido tienen en mantener estos espacios.
 
-En base a esto, tomó como eje la baja de Espert de las elecciones, debido a su vinculación con el narco Fred Machado. Sobre esto, Bregman recordó el debate que se llevó a cabo en el mismo programa en el año 2021, en el que Nicolás del Caño ya había denunciado que “Espert estaba relacionado con el narcotráfico”, por el mismo caso que ha sido vinculado esta semana.
+En base a esto, tomó como eje **la baja de Espert de las elecciones**, debido a su vinculación con el narco Fred Machado. Sobre esto, Bregman recordó el debate que se llevó a cabo en el mismo programa en el año 2021, en el que **Nicolás del Caño ya había denunciado que “Espert estaba relacionado con el narcotráfico”**, por el mismo caso que ha sido vinculado esta semana.
 
-**Nicolás del Caño en el debate 2021**
+![Nico Del Caño debate]()
+> Nicolás del Caño en el debate 2021
 
-Además, recalcó los dichos de “cárcel o bala” y la presentación de Christian Castillo en el que acusaron al ex candidato de La Libertad Avanza de “no estar en condiciones de conducir una comisión por la violencia con la que nos trataba”.
+Además, recalcó los dichos de **“cárcel o bala”** y la presentación de Christian Castillo en el que acusaron al ex candidato de La Libertad Avanza de “no estar en condiciones de conducir una comisión por la violencia con la que nos trataba”.
 
 Por otra parte, llamó a los votantes a “fijarse en este año y medio, la mayor parte de los candidatos, son diputados y senadores, han sido funcionarios: ¿Qué hicieron en este año y medio cuando Milei arrasó con todo?”.
 
-La izquierda tiene un gran desafío para seguir en Ciudad de Buenos Aires, según Bregman
+![Representantes del FIT-U]()
+> La izquierda tiene un gran desafío para seguir en Ciudad de Buenos Aires, según Bregman
 
-Por último, resaltó que “después de 20 años, en el 2021, logramos que haya una banca de izquierda en la Ciudad de Buenos Aires, ahora tenemos el desafío de volver a conquistarla”.
+Por último, resaltó que **“después de 20 años, en el 2021, logramos que haya una banca de izquierda en la Ciudad de Buenos Aires, ahora tenemos el desafío de volver a conquistarla”.**
 
-El programa especial de A dos voces continuó con otro debate, el candidato a diputado en CABA por Ciudadanos Unidos, Martín Lousteau.
+El programa especial de A dos voces continuó con otro debate, el candidato a diputado en CABA por Ciudadanos Unidos, **Martín Lousteau.**
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
 <!--more-->
