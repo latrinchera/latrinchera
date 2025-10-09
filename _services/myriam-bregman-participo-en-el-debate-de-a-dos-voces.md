@@ -1,38 +1,33 @@
 ---
-title: "El Frente de Izquierda cerró su campaña en La Plata"
-date: 2025-09-06T15:14:39+10:00
-weight: 23
+title: "Myriam Bregman participó en el debate de "A dos voces""
+date: 2025-10-09T00:14:39+10:00
+weight: 17
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
-El jueves 4 de septiembre se llevó a cabo el cierre de campaña del Frente de Izquierda y de los Trabajadores Unidad (FIT-U), en la **Plaza Moreno, La Plata**
+La candidata a diputada por el FIT - U apuntó contra Espert y destacó la importancia de los debates.
 
-![Seguidores en el cierre de campaña en La Plata](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/gente-con-banderas.jpg)
-> La campaña del Frente de Izquierda Unidad llama a recorrer las calles de La Plata en los luagres de trabajo y de estudio
+A 17 días de las elecciones legislativas nacionales, Myriam Bregman se presentó en el debate del programa “A dos voces" en TN, con Edgardo Alfano y Marcelo Bonelli, este miércoles 8 de octubre.
 
-Desde las tres de la tarde, frente al Palacio Municipal, tuvo lugar el **acto de cierre de campaña de la izquierda**. Integrado por el Movimiento Socialista de los Trabajadores (MST), el Partido de los Trabajadores Socialistas (PTS), el Partido Obrero (PO), Vientos del Pueblo e Izquierda Socialista, la plaza reunió militantes y simpatizantes del partido.
+**Myriam Bregman en “A dos voces”**
 
-El acto empezó con **Laura Cano** reafirmando que "fue una campaña pulmón", que se desarrolló en un contexto adverso a los partidos de izquierda autogestionados. Para las elecciones legislativas, el frente de izquierda se presentó con una lista "llena de laburantes", según Cano.
+Primeramente, los periodistas apuntaron a los dichos del abogado Alejandro Fargosi, quien se refirió a Bregman en una publicación en X como “una militante judía en la izquierda”. A raíz de ello, la candidata expresó su deseo de participar en el debate y remarcó la importancia de estos, no solo en programas sino en el propio Congreso, apuntando a distintos dichos por parte de bloques opositores al FIT - U. Además, destacó la apertura que ella y su partido tienen en mantener estos espacios.
 
-esta idea estuvo presente en los testimonios de los asistentes. **Luana Simioni**, primera candidata concejal en La Plata, habló con el equipo de **La Trinchera**, y remarcó que "es una elección rara porque partieron la provincia en ocho pedazos. Antes, para votar en un diputado nacional, tenías un cuerpo de la boleta que unificaba la provincia. Ahora, al no estar solo, se obligó a regionalizar". Por esta razón, la estrategia de campaña del FIT-U se enfocó en "caminar junto con candidatos locales", señaló  Simioni.
+En base a esto, tomó como eje la baja de Espert de las elecciones, debido a su vinculación con el narco Fred Machado. Sobre esto, Bregman recordó el debate que se llevó a cabo en el mismo programa en el año 2021, en el que Nicolás del Caño ya había denunciado que “Espert estaba relacionado con el narcotráfico”, por el mismo caso que ha sido vinculado esta semana.
 
-"En la plata hicieron una campaña local intensa en la que recorrieron mucho", continúe la candidata concejal, "En la tercera sección, que hay muchos municipios, caminaron mucho junto con candidatos locales que suelen ser personas de sectores precarizados". el objetivo de estas caminatas fue Establecer un **punto de contacto entre los votantes y candidatos**, y captar a los que no saben que votar y a los desencantados con el gobierno de turno.
+**Nicolás del Caño en el debate 2021**
 
-![Luana Simioni](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/lucia-simioni.JPG)
-> Luana Simioni, dirigente del PTS yreferente deel Frente de Izquierda Unidad en La Plata
+Además, recalcó los dichos de “cárcel o bala” y la presentación de Christian Castillo en el que acusaron al ex candidato de La Libertad Avanza de “no estar en condiciones de conducir una comisión por la violencia con la que nos trataba”.
 
-**Franco Rapanelli**, segundo en la lista de candidatos a concejales en La Plata, planteó que "la izquierda aparece como una alternativa que interviene en la cotidianeidad, y nuestras listas están integradas por compañeros que intervienen en esas luchas". Para Rapanelli, el Gobierno actual es incompatible con las necesidades básicas de la población. En su opinión, **el oficialismo y el peronismo llevaron a cabo ajustes que alimentaron el descontento popular**.
+Por otra parte, llamó a los votantes a “fijarse en este año y medio, la mayor parte de los candidatos, son diputados y senadores, han sido funcionarios: ¿Qué hicieron en este año y medio cuando Milei arrasó con todo?”.
 
-![Franco Rapanelli](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/franco-rapanelli.jpg)
-> Franco Rapanelli, docente y delegado de Suteba, referente del PO.
+La izquierda tiene un gran desafío para seguir en Ciudad de Buenos Aires, según Bregman
 
-Para ambos candidatos, este descontento fue el responsable de la baja participación electoral. Simioni argumentó que "hay una juventud menos defensora de las ideas de Miley, que defiende valores que el presidente ataca". Justamente, **el FIT-U tiene una base electoral compuesta por jóvenes universitarios y jubilados**, y, en la decepción de estos sectores por las políticas agresivas del Gobierno, encuentra una oportunidad: "La izquierda es una opción rápida, un vehículo para ayudar a que la juventud rompa con las ideas de la derecha". 
+Por último, resaltó que “después de 20 años, en el 2021, logramos que haya una banca de izquierda en la Ciudad de Buenos Aires, ahora tenemos el desafío de volver a conquistarla”.
 
-Para el segundo en la lista, la baja participación también tiene que ver con "un desconocimiento de lo que se vota". "Quedarte en tu casa no sirve para nada, van a seguir gobernando los mismos de siempre, canaliza la decepción de los que te han traicionado por la izquierda, qué es el verdadero cambio y voto útil", afirmó.
-
-Las **propuestas de campaña** vocalizadas en Plaza Moreno tuvieron un eje claro: que haya un **control popular** en los principales resortes de los municipios. También proponen una **reducción de la jornada laboral** a seis horas cinco días de la semana para crear un cuarto turno; capacitación docente para que la **ESI sea un contenido transversal y obligatorio; estilizar el sistema de transporte**; y que **las inmobiliarios y constructoras paguen un impuesto extraordinario** para poder llevar adelante un plan de viviendas en los barrios, entre otras.
+El programa especial de A dos voces continuó con otro debate, el candidato a diputado en CABA por Ciudadanos Unidos, Martín Lousteau.
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
 <!--more-->
