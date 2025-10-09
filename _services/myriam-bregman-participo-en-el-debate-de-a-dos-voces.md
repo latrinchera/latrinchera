@@ -1,5 +1,5 @@
 ---
-title: "Myriam Bregman participó en el debate de "A dos voces""
+title: "Myriam Bregman participó en el debate de ''A dos voces''"
 date: 2025-10-09T00:14:39+10:00
 weight: 17
 ---
