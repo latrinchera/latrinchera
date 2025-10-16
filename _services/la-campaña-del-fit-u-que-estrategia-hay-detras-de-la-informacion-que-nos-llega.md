@@ -1,7 +1,7 @@
 ---
 title: "La campaña del FIT-U: ¿Qué estrategia hay detrás de la información que nos llega?"
 date: 2025-10-16T15:00:39+10:00
-weight: 23
+weight: 16
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
