@@ -6,6 +6,7 @@ weight: 18
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
+
 En medio del escándalo que sacude al oficialismo tras la renuncia de José Luis Espert, acusado de recibir USD $200.000 de una empresa vinculada al narcotraficante Federico “Fred” Machado, dirigentes del Frente de Izquierda presentaron su oposición a la reimpresión de boletas.
 
 ![Boleta Única Papel](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/BUP.jpg)
