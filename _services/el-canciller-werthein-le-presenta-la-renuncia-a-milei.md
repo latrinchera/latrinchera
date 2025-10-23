@@ -9,7 +9,7 @@ weight: 18
 
 Este martes por la noche se lo comunicó al presidente Javier Milei tras solo un año de gestión. Le había manifestado sus desacuerdos por la influencia de Santiago Caputo y quedó pegado en los problemas con Trump.
 
-![Milei en la Oficina Oval]()
+![Milei en la Oficina Oval](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/canciller.jpeg)
 > Milei en la Oficina Oval de la Casa Blanca junto a Trump, con Werthein y Karina de acompañantes.
 
 
