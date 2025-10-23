@@ -20,9 +20,13 @@ Según explican en La Nación, el canciller esperaba una defensa pública por pa
 Aún no hay reemplazo definido: Nahuel Sotelo, Úrsula Basset, Luis María Kreckler, Guillermo Francos, son todos nombres que se barajan, pero ¿quiénes son?
 
 ● Nahuel Sotelo es el actual secretario de Culto.
+
 ● Úrsula es la directora de Derechos Humanos de la Cancillería.
+
 Ambos son mencionados por el grupo “Las fuerzas del Cielo” que apoyan de cerca al presidente. 
+
 ● Luis María Kreckler es cónsul en San Pablo y tiene buen vínculo con Karina Milei.
+
 ● Guillermo Francos, pero sólo si Caputo toma su lugar como Jefe de Gabinete post elecciones.
 
 <!--Se subirá el 23 de octubre de 2025 -->
