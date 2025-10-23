@@ -1,7 +1,7 @@
 ---
 title: "El canciller Werthein le presenta la renuncia a Milei"
 date: 2025-10-23T15:14:39+10:00
-weight: 16
+weight: 15
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
