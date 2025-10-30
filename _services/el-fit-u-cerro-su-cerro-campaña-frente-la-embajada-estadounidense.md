@@ -86,6 +86,17 @@ Una vez culminado el acto, la desconcentración no fue inmediata. En la plaza se
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
 <!-- Carrusel -->
+<style>
+  .swiper-slide img,
+  .swiper-slide video {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
 <div class="swiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide"><img src="https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bandera-estadounidense.jpg" alt="Foto 1"></div>
