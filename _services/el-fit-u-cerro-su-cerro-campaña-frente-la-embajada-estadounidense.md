@@ -10,6 +10,7 @@ weight: 14
 El FIT-U cerró su campaña frente la embajada estadounidense
 Banderas rojas, rostros del Che y consignas por Palestina acompañaron el cierre de campaña del Frente de Izquierda-Unidad (FIT-U) en la Plaza Intendente Seeber.
 
+![Los dirigentes presentas](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/principales-dirigentes.jpg)
 > Principales dirigentes del FIT-U en el escenario una vez que concluyó el acto
 
 “Unidad, de los trabajadores y al que no le guste, se jode, se jode”, era uno de los cánticos que se escuchaban varias cuadras antes de llegar al punto de encuentro. El acto, inicialmente pactado para las 17:30, comenzó cerca de las 18 con la palabra de Romina del Plá, ex candidata a senadora provincial bonaerense por el FIT-U.
@@ -17,9 +18,7 @@ La dirigente subió al escenario junto a otros referentes del Polo Obrero. Salud
 
 La dirigente subió al escenario junto a otros referentes del Polo Obrero. Saludó a los presentes y felicitó a los militantes por “la increíble campaña a pulmón que volvieron a hacer”, señalando a sus compañeros que se encontraban en primera fila. También destacó el simbolismo de realizar el cierre frente a la “embajada yankee” y aseguró que era inútil hacerlo frente a la Casa Rosada, porque Milei “le entregó el gobierno, la dirección de la política económica, todos los recursos y los bienes comunes” a Estados Unidos. Recalcó que el FIT-U es “el único frente político que no fue a chuparle las medias a los yankees”.
 
-Romina del Plá durante su discurso. ©La Izquierda Diario
-Como es costumbre en los actos de izquierda, a los pocos minutos de iniciado su discurso, Del Plá hizo referencia a la causa Palestina. Afirmó que la defensa del pueblo palestino y la lucha contra el sionismo “que tiene el apoyo de todo el imperialismo” forman parte del terreno político del FIT-U. También señaló que “el lado del Frente de Izquierda es el lado de quienes peleamos por los salarios dignos, la docencia en la Provincia de Buenos Aires, frente al ajuste de Kicillof y compañía”. Además, marcó que el espacio no solo se opone a las medidas impulsadas por el gobierno de La Libertad Avanza, sino también al peronismo, al que definió como “funcional a Milei”.
-
+![Romina del Plá](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/romina-del-pla.jpg)
 > Romina del Plá durante su discurso. ©La Izquierda Diario
 
 Como es costumbre en los actos de izquierda, a los pocos minutos de iniciado su discurso, Del Plá hizo referencia a la causa Palestina. Afirmó que la defensa del pueblo palestino y la lucha contra el sionismo “que tiene el apoyo de todo el imperialismo” forman parte del terreno político del FIT-U. También señaló que “el lado del Frente de Izquierda es el lado de quienes peleamos por los salarios dignos, la docencia en la Provincia de Buenos Aires, frente al ajuste de Kicillof y compañía”. Además, marcó que el espacio no solo se opone a las medidas impulsadas por el gobierno de La Libertad Avanza, sino también al peronismo, al que definió como “funcional a Milei”.
@@ -32,6 +31,7 @@ El siguiente en subir fue Juan Carlos Giordano, diputado por la provincia de Bue
 
 El público chifló cuando Giordano mencionó el “pacto de la CGT con el gobierno” y defendió a los jubilados, docentes y trabajadores del Garrahan. Remarcó que la importancia de votar al Frente de Izquierda radica en “tener más diputados y diputadas para que en las calles y en el Congreso podamos decir ‘Basta Milei’ y ponerle fin al capitalismo, para cumplir el sueño de una Argentina socialista”.
 
+![Carlos Giordano](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/carlos-giordano.jpg)
 > Carlos Giordiano durante su discurso
 
 Las críticas no se limitaron al oficialismo. Giordano aseguró que el único partido que realmente le hace frente a Milei es el FIT-U, no Fuerza Patria de Cristina y Kicillof. Según el dirigente, el peronismo “solo critica, pero dejó que Milei avance y que estemos en esta situación”. También acusó a la CGT peronista de haber pactado con el gobierno.
@@ -44,6 +44,7 @@ Explicó que el acto frente a la embajada norteamericana no fue casual, ya que �
 
 “Somos el único partido que va a pelear para no ser una estrella más en la bandera yankee”, aseguró Del Caño. El público respondió coreando “Palestina vencerá, desde el río hasta el mar”, acompañado por los propios dirigentes. El candidato reafirmó su compromiso con la causa palestina y expresó su apoyo a los trabajadores estadounidenses que se manifestaron contra las políticas de Trump y “el genocidio perpetuado por Israel”.
 
+![Nicolas del Caño en el cierre de campaña](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/del-ca%C3%B1o-cierre.jpg)
 > Nicolas del Caño durante su discurso. © La izquierda Diario
 
 “La clase obrera es una y sin fronteras”, gritaban desde el público cuando Del Caño mencionó las protestas obreras en Italia, donde los trabajadores bloquearon el envío de armas a Israel. Cerró su discurso recordando que el FIT-U es la única fuerza que desconoce la “deuda ilegítima con el FMI” y que propone un programa para cubrir las necesidades de las mayorías populares. Se despidió entre aplausos, bombos y banderas agitadas.
@@ -52,12 +53,14 @@ A continuación fue el turno de Celeste Fierro, del Movimiento Socialista, tambi
 
 Fierro afirmó que el gobierno de Milei recibirá un golpe en las urnas y que su política económica y social ya enfrenta un rechazo mayoritario en las calles. Concluyó que a el presidente hay que derrotarlo “en las urnas y en la calle”, y que el verdadero objetivo es construir un gran partido anticapitalista, socialista y revolucionario. Se retiró del escenario entre gritos y aplausos.
 
+![Cecilia Fierro](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/cecilia-ferro.jpg)
 > Cecilia Fierro durante su intervención en el acto
 
 El anteúltimo orador fue Gabriel Solano, diputado del FIT-U, quien comenzó reconociendo la decisión de realizar el acto frente a la embajada estadounidense como “realismo político”. Según él, si lo hacían en Plaza de Mayo no se encontrarían “con quien manda en la Argentina, sino con un chirolita de Trump”. Sostuvo que Estados Unidos no solo ejerce una intervención económica, sino también política, y remarcó que todos los partidos capitalistas apoyan las reformas laboral y previsional, mientras que el FIT-U es el único que se opone.
 
 “¿Dónde está Taiana? ¡Nadie tiene una foto con él en las marchas porque no va!”, ironizó. Los presentes respondieron con aplausos. El público comenzó a cantar “Paro, paro, paro general” cuando Solano mencionó haber firmado una petición de una madre del Garrahan para exigir un paro general por parte de la CGT. “Pero eso no va a pasar”, dijo, “porque están ocupados negociando la reforma laboral”.
 
+![Gabriel Solano](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/gabriel-solano.jpg)
 > Gabriel Solano durante su discurso de cierre de campaña
 
 Antes de concluir, retomó el tema de la causa Palestina y criticó el silencio del peronismo y la complicidad de Milei, quien “anda sacándose fotos con Netanyahu”. La mención al peronismo de izquierda, liderado por Grabois, provocó silbidos en el público. Cerró afirmando que el FIT-U es “el único partido 100% comprometido con la causa Palestina”. Una leve llovizna comenzó a caer y Solano, entre risas, dijo: “Son las fuerzas del cielo llorando”, desatando aplausos y risas.
@@ -68,6 +71,7 @@ El acto culminó con el discurso de Myriam Bregman, recibida con fuegos artifici
 
 Bregman también se refirió a los femicidios ocurridos en las últimas semanas y criticó que la campaña haya continuado “como si nada”. Destacó que el FIT-U es la única fuerza con mayoría femenina en sus listas, a diferencia de La Libertad Avanza y el peronismo.
 
+![Myriam Bregman en el cierre](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/myriam-cierre.jpg)
 > Myriam Bregman dando el discurso de cierre
 
 Cerró reafirmando el carácter antiimperialista del FIT-U: “Estamos frente a la embajada estadounidense para denunciar la injerencia imperialista en la región”, dijo, recordando las denuncias del partido contra los bombardeos de Trump en Colombia y Venezuela, y contra la sentencia judicial contra Cristina Fernández de Kirchner.
@@ -76,6 +80,7 @@ Al finalizar, agradeció nuevamente a los militantes y se retiró del escenario 
 
 Una vez culminado el acto, la desconcentración no fue inmediata. En la plaza se formaron dos grupos: unos seguían bailando y cantando con la batucada, mientras otros preparaban una fogata en torno a dos banderas estadounidenses. Entre silbidos, gritos y aplausos, las banderas ardieron frente a la embajada, cerrando así una jornada marcada por el fervor militante y la consigna antiimperialista.
 
+![]()
 > Militantes de izquierda prenden fuego la bandera estadounidense
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
