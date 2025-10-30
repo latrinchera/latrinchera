@@ -25,6 +25,9 @@ Como es costumbre en los actos de izquierda, a los pocos minutos de iniciado su 
 
 Del Plá concluyó su discurso recordando a Mariano Ferreyra, asesinado hace 15 años por una patota de la Unión Ferroviaria mientras participaba de una protesta de trabajadores tercerizados. Al mencionar su nombre, los presentes respondieron con un potente “¡Presente!”. Desde el escenario hasta el fondo de la plaza se alzaron decenas de manos izquierdas mientras el canto retumbaba: “Mariano Ferreyra, hasta la victoria siempre”. Al bajar del escenario, fue despedida con aplausos y gritos de apoyo.
 
+<div class="flourish-embed flourish-word-cloud" data-src="visualisation/25934107"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25934107/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>
+> Nube de palabras del discurso de Romina del Plá
+
 Mientras se esperaba al próximo orador, la plaza no permaneció en silencio. La batucada oficial del partido continuaba alentando a los presentes al ritmo de “Ahí están, ellos son, los obreros sin patrón”.
 
 El siguiente en subir fue Juan Carlos Giordano, diputado por la provincia de Buenos Aires. Antes de iniciar su discurso, se unió a la multitud y cantó junto a ellos un verso de una canción del partido. Comenzó agradeciendo a la militancia y a los candidatos del FIT-U, y volvió a destacar el simbolismo de realizar el acto frente a la embajada estadounidense. Según explicó, el acuerdo de Milei con la Casa Blanca no solo implica más deuda “que va a tener que pagar el pueblo trabajador”, sino también un salvataje “para los bancos y para el propio presidente, con el fin de salvarlo del repudio popular”.
@@ -49,12 +52,18 @@ Explicó que el acto frente a la embajada norteamericana no fue casual, ya que �
 
 “La clase obrera es una y sin fronteras”, gritaban desde el público cuando Del Caño mencionó las protestas obreras en Italia, donde los trabajadores bloquearon el envío de armas a Israel. Cerró su discurso recordando que el FIT-U es la única fuerza que desconoce la “deuda ilegítima con el FMI” y que propone un programa para cubrir las necesidades de las mayorías populares. Se despidió entre aplausos, bombos y banderas agitadas.
 
+<div class="flourish-embed flourish-word-cloud" data-src="visualisation/25934090"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25934090/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>
+> Nube de palabras del discurso de Nicolás Del Caño
+
 A continuación fue el turno de Celeste Fierro, del Movimiento Socialista, también integrante de la flotilla humanitaria que partió hacia Gaza. Fue recibida entre aplausos y gritos .  Agradeció el apoyo recibido durante su viaje y destacó que el FIT-U “abraza la causa Palestina” sin dudar en denunciar el genocidio. Señaló que el plan de paz propuesto por Estados Unidos solo busca “lavarle la cara al asesino Netanyahu”.
 
 Fierro afirmó que el gobierno de Milei recibirá un golpe en las urnas y que su política económica y social ya enfrenta un rechazo mayoritario en las calles. Concluyó que a el presidente hay que derrotarlo “en las urnas y en la calle”, y que el verdadero objetivo es construir un gran partido anticapitalista, socialista y revolucionario. Se retiró del escenario entre gritos y aplausos.
 
 ![Cecilia Fierro](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/cecilia-ferro.jpg)
 > Cecilia Fierro durante su intervención en el acto
+
+<div class="flourish-embed flourish-word-cloud" data-src="visualisation/25934505"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25934505/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>
+> Nube de palabras del discurso de Cecilia Fierro
 
 El anteúltimo orador fue Gabriel Solano, diputado del FIT-U, quien comenzó reconociendo la decisión de realizar el acto frente a la embajada estadounidense como “realismo político”. Según él, si lo hacían en Plaza de Mayo no se encontrarían “con quien manda en la Argentina, sino con un chirolita de Trump”. Sostuvo que Estados Unidos no solo ejerce una intervención económica, sino también política, y remarcó que todos los partidos capitalistas apoyan las reformas laboral y previsional, mientras que el FIT-U es el único que se opone.
 
@@ -64,6 +73,9 @@ El anteúltimo orador fue Gabriel Solano, diputado del FIT-U, quien comenzó rec
 > Gabriel Solano durante su discurso de cierre de campaña
 
 Antes de concluir, retomó el tema de la causa Palestina y criticó el silencio del peronismo y la complicidad de Milei, quien “anda sacándose fotos con Netanyahu”. La mención al peronismo de izquierda, liderado por Grabois, provocó silbidos en el público. Cerró afirmando que el FIT-U es “el único partido 100% comprometido con la causa Palestina”. Una leve llovizna comenzó a caer y Solano, entre risas, dijo: “Son las fuerzas del cielo llorando”, desatando aplausos y risas.
+
+<div class="flourish-embed flourish-word-cloud" data-src="visualisation/25934505"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25934505/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>
+> Nube de palabras del discurso de Gabriel Solano
 
 El acto culminó con el discurso de Myriam Bregman, recibida con fuegos artificiales, bengalas, gritos y bombos. Agradeció a la militancia y a quienes convencieron a otros de votar por la izquierda. Habló del esfuerzo de los últimos años y afirmó: “Si no estás cansado, es porque no fuiste a las manifestaciones, no te comiste un gas de Patricia Bullrich, no te subiste a un barco hacia Gaza”.
 
@@ -78,9 +90,11 @@ Cerró reafirmando el carácter antiimperialista del FIT-U: “Estamos frente a 
 
 Al finalizar, agradeció nuevamente a los militantes y se retiró del escenario entre aplausos.
 
+<div class="flourish-embed flourish-word-cloud" data-src="visualisation/25927366"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25927366/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>
+> Nube de palabras del discuros de Myriam Bregman
+
 Una vez culminado el acto, la desconcentración no fue inmediata. En la plaza se formaron dos grupos: unos seguían bailando y cantando con la batucada, mientras otros preparaban una fogata en torno a dos banderas estadounidenses. Entre silbidos, gritos y aplausos, las banderas ardieron frente a la embajada, cerrando así una jornada marcada por el fervor militante y la consigna antiimperialista.
 
-![]()
 <!-- Incluye Swiper desde CDN -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
