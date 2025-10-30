@@ -81,6 +81,32 @@ Al finalizar, agradeció nuevamente a los militantes y se retiró del escenario 
 Una vez culminado el acto, la desconcentración no fue inmediata. En la plaza se formaron dos grupos: unos seguían bailando y cantando con la batucada, mientras otros preparaban una fogata en torno a dos banderas estadounidenses. Entre silbidos, gritos y aplausos, las banderas ardieron frente a la embajada, cerrando así una jornada marcada por el fervor militante y la consigna antiimperialista.
 
 ![]()
+<!-- Incluye Swiper desde CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
+<!-- Carrusel -->
+<div class="swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bandera-estadounidense.jpg" alt="Foto 1"></div>
+    <div class="swiper-slide"><video src="https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/video-bandera-1.mp4" controls></video></div>
+   <div class="swiper-slide"><video src="https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/video-bandera-2.mp4" controls></video></div>
+    <div class="swiper-slide"><video src="https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/video-bandera-3.mp4" controls></video></div>
+    <div class="swiper-slide"><img src="https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bandera-prendida.jpg" alt="Foto 2"></div>
+  </div>
+  <!-- Flechas -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<script>
+  new Swiper('.swiper', {
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  });
+</script>
 > Militantes de izquierda prenden fuego la bandera estadounidense
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
