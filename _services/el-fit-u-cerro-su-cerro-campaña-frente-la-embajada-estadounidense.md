@@ -7,7 +7,7 @@ weight: 14
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
-El FIT-U cerró su campaña frente la embajada estadounidense
+El FIT-U cerró su campaña frente la embajada estadounidense.
 Banderas rojas, rostros del Che y consignas por Palestina acompañaron el cierre de campaña del Frente de Izquierda-Unidad (FIT-U) en la Plaza Intendente Seeber.
 
 ![Los dirigentes presentas](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/principales-dirigentes.jpg)
