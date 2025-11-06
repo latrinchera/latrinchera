@@ -41,7 +41,7 @@ A pesar de las diferencias ideológicas con la mayoría del electorado, ella con
 
 Bregman considera que el país quedó muy mal luego de la presidencia de Alberto Fernández y le parece que "detrás de esa pregunta también se esconde una intención de no hacer balance de lo que fueron los últimos gobiernos, **de por qué la juventud se volvió escéptica** y vino uno que le decía 'voy a arrasar con todo, con la motosierra en mano'", explica, y luego continúa: "Incluso muchos pibes y muchas pibas lo votaron. **Yo no justifico ese voto, pero pienso profundamente qué lo provocó**".
 
-Su tarea como diputada de la Nación, como representante del partido obrero y como dirigente de diversas luchas sociales es "**estar para los trabajadores**" incluso aquellos que no la hayan elegido. La lucha contra la impunidad comenzó desde las aulas de la Facultad de Derecho y continúa en las calles, nunca como un individuo, sino como parte de un compromiso colectivo.
+Su tarea como diputada de la Nación, como representante del partido obrero y como dirigente de diversas luchas sociales es "**estar para los trabajadores**" incluso aquellos que no la hayan elegido. La lucha contra la impunidad comenzó desde las aulas de la Facultad de Derecho y continúa en las calles, nunca como un individuo, sino como parte de un compromiso colectivo. 
 
 <!--Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
