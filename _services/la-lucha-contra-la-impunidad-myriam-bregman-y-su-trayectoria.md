@@ -7,7 +7,6 @@ bodyClass: "page-service"
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
----
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRw4J0ubUIFVGP3YP-FfGpVVSyE4f1EaYeHREYLc_4vICt31Rm2pLwbjFckZyoOiY3mGyYOgioG6bjR&font=Default&lang=es&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
