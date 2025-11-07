@@ -16,6 +16,7 @@ trabajadores socialista?” “¡Presente!”, responden hombres y mujeres de ch
 fluorescentes. Así continuaron, entre el humo que desprendían los Patys, con el Partido 
 Obrero, el Polo Obrero y el Movimiento Socialista de los Trabajadores. 
 
+![Avenida Belgrano](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bunker-belgrano.jpeg)
 > La Avenida Belgrano fue el punto de encuentro del partido de izquierda.
 
 El segundo piso de la casa que ese 26 de octubre se transformó en el bunker del FIT-U, se 
@@ -38,6 +39,7 @@ Coca Cola y comían empanadas que habían empezado a circular recientemente. Rec
 las 8:40 empezaron a haber caras nuevas, emocionadas, que contrastaban con las serias 
 de periodistas sentados en el salón desde las seis de la tarde. 
 
+![Conferencia de prensa](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bunker-prensa.jpeg)
 > Tras conocerse los resultados, los candidatos brindaron una conferencia de prensa 
 
 Para las nueve, la cantidad de personas se había duplicado. El segundo piso ya no solo 
@@ -57,6 +59,7 @@ Nicolás del Caño y Romina Del Plá lograron renovar tres bancas de cuatro, dej
 Christian Castillo sin la que había adquirido en las elecciones legislativas de 2023. El salón 
 estalló en gritos de festejo, cánticos y algunas lágrimas de alegría. 
 
+![Myriam y Chipi](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/myriam-chipi-bunker.jpeg)
 > Myriam Bregman y Christian Castillo saludaron a los militantes y posaron para las fotos
 
 A las 9:20, cuando el público terminó su festejo y volvió a prestarle atención a la tele, por los parlantes anunciaron las bancas que le quedaron a La Libertad Avanza. El salón, que hace 
@@ -74,11 +77,15 @@ muy coquetas, caminaron hacia la puerta a los empujones, y se fueron charlando. 
 también fue la idea de un poco menos de la mitad de los presentes, quienes luego de ver 
 que el FIT-U renovaba tres bancas, se fueron. 
 
+![Militantes](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bunker-militantes.jpg)
 > Militantes del FIT-U estuvieron presentes en el evento, pero no se le permitió el ingreso a la militancia universitaria
 
 “Frente de Izquierda, patrones a la mierda”, cantan unos jóvenes alrededor de Myriam Bregman. Una periodista de un medio de Lanús los grababa, sonriente. Luego dio vuelta la cámara y empezó a relatar: “Ya son las 9:35 de la noche, el Frente de Izquierda y los Trabajadores acumuló un 5,03% a nivel provincial y todo es alegría. Caminamos hacia una Argentina más libre, más comprometida con les trabajadores, y sobre todo, con el genocidio que está teniendo lugar en el territorio Palestino por el Estado de Israel. Milei tiembla porque nos viene venir”. Sigue hablando, pero su voz se pierde entre la multitud. Periodistas cansados se sientan a escribir, señoras y señores caminan hacia la puerta, apurados, con miedo de que la calle esté cortada por la murga que se despliega sobre la avenida.
 
-Grupos de estudiantes universitarios se juntaron en la calle a apoyar al partido de izquierda Los candidatos se pierden entre una muchedumbre de jóvenes que se abalanzan para pedirles una foto, unas palabras, un abrazo. Las tres teles están apagadas. Ya no importa qué pasa con el resto de los partidos porque el Frente de Izquierda ya logró su cometido. Se quedan en Diputados. Empieza el festejo, y, junto al canto de los jóvenes en la calle y el ritmo de los tambores de murga, se arma una fiesta sobre la Avenida Belgrano al 1144.
+!![Estudiantes](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/bunker-estudiantes.jpeg)
+> Grupos de estudiantes universitarios se juntaron en la calle a apoyar al partido de izquierda 
+
+Los candidatos se pierden entre una muchedumbre de jóvenes que se abalanzan para pedirles una foto, unas palabras, un abrazo. Las tres teles están apagadas. Ya no importa qué pasa con el resto de los partidos porque el Frente de Izquierda ya logró su cometido. Se quedan en Diputados. Empieza el festejo, y, junto al canto de los jóvenes en la calle y el ritmo de los tambores de murga, se arma una fiesta sobre la Avenida Belgrano al 1144.
 
 
 <!--Se subirá el 23 de octubre de 2025 -->
