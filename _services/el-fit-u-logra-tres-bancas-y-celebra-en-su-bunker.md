@@ -1,5 +1,5 @@
 ---
-"title: "El FIT-U logra retener tres bancas y celebra en el bunker""
+title: "El FIT-U logra retener tres bancas y celebra en el bunker"
 date: 2025-11-06 
 weight: 12
 ---
