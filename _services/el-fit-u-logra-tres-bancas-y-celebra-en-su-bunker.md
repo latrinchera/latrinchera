@@ -7,6 +7,7 @@ weight: 14
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
 </div>
 
+Nota del bunker de frente de izquierda
 
 <!--Se subirá el 23 de octubre de 2025 -->
 <!--Business advisory is the final tier of the accounting pyramid.-->
