@@ -1,7 +1,7 @@
 ---
-title: "El Frente de Izquierda cerró su campaña en La Plata"
+title: "El FIT-U logra retener tres bancas y celebra en el bunker"
 date: 2025-11-06 
-weight: 14
+weight: 12
 ---
 <div align="right">
   <small><em>Fecha de publicación: {{ page.date | date: "%d de %B, %Y" }}</em></small>
