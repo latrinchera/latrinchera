@@ -53,11 +53,56 @@ aire, con orgullo. Los de prensa estaban pegados a la tele, aprovechando que la 
 desvió al medio del salón, donde estaban Bregman y del Caño. 
 
 A las 9:17 salieron los primeros resultados. Con el 90,88% de las mesas escrutadas, el 
-FIT-U había adquirido tres bancas en la Cámara de Diputados de la Nación. En esta 
-elección legislativa no obtuvieron ninguna banca en el Senado, pero Myriam Bregman, 
-Nicolás del Caño y Romina Del Plá lograron renovar tres bancas de cuatro, dejando a  
-Christian Castillo sin la que había adquirido en las elecciones legislativas de 2023. El salón 
-estalló en gritos de festejo, cánticos y algunas lágrimas de alegría. 
+FIT-U había adquirido tres bancas en la Cámara de Diputados de la Nación. En esta elección legislativa no obtuvieron ninguna banca en el Senado, pero Myriam Bregman, Nicolás del Caño y Romina Del Plá lograron renovar tres bancas de cuatro, dejando a Christian Castillo sin la que había adquirido en las elecciones legislativas de 2023. El salón estalló en gritos de festejo, cánticos y algunas lágrimas de alegría. 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
+<style>
+  .flourish-container {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+  }
+  .flourish-container .flourish-embed {
+    width: 100%;
+    height: 100%;
+  }
+</style>
+<div class="swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <div style="display: flex; gap: 20px; justify-content: center;">
+        <div class="flourish-container">
+          <div class="flourish-embed flourish-parliament" data-src="visualisation/26101841">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript><img src="https://public.flourish.studio/visualisation/26101841/thumbnail" width="100%" alt="parliament visualization" /></noscript>
+          </div>
+        </div>
+        <div class="flourish-container">
+          <div class="flourish-embed flourish-parliament" data-src="visualisation/26101399">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript><img src="https://public.flourish.studio/visualisation/26101399/thumbnail" width="100%" alt="parliament visualization" /></noscript>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<script>
+  new Swiper('.swiper', {
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    loop: true
+  });
+</script>
 
 ![Myriam y Chipi](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/myriam-chipi-bunker.jpeg)
 > Myriam Bregman y Christian Castillo saludaron a los militantes y posaron para las fotos
