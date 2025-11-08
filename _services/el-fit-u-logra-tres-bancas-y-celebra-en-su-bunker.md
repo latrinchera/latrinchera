@@ -63,7 +63,7 @@ FIT-U había adquirido tres bancas en la Cámara de Diputados de la Nación. En 
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    height: 700px;
   }
   .flourish-embed {
     width: 100%;
