@@ -25,7 +25,7 @@ El equipo de La Trinchera habló con la economista Carolina Moreni, actual Direc
 
 La propuesta de nacionalizar la banca para Moreni no es viable porque "rompería con una dinámica internacional. Vivimos en un mundo capitalista." y la idea de una asamblea abierta haría entrar al sistema en un "conflicto de capacidades" y podría ser altamente riesgoso, "necesitamos representantes que estén formados". Además asegura que exiten otras posibilidades más saludables para que los bancos nacionales se desarrollen y fortalezcan.
 
-La jornada laboral de 6 horas "no se implementó en ningún lugar del mundo de esta manera" expresa la economista y se pregunta "¿Cómo le vamos a decir a la industria naccional que no vende, que tampoco despida?", dice que esta propuesta "es una chicana" y que todas las propuestas económicas de la izquierda están "en la línea de que todos los empresarios son malos" y tiene la idea de los trabajadores como "operarios de 1950".
+La jornada laboral de 6 horas "no se implementó en ningún lugar del mundo de esta manera" expresa la economista y se pregunta "¿Cómo le vamos a decir a la industria nacional que no vende, que tampoco despida?", dice que esta propuesta "es una chicana" y que todas las propuestas económicas de la izquierda están "en la línea de que todos los empresarios son malos" y tiene la idea de los trabajadores como "operarios de 1950".
 
 Pablo Salinas le explica al equipo de La Trinchera que esto se debe a que "es un partido bien ideológico y no tanto pragmático" por lo que al no renovar sus propuestas "empiezan a hablar en otro idioma", cuando en realidad el partido debería "estar muy conectado con el pulso social".
 
