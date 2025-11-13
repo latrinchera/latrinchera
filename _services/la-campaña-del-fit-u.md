@@ -21,6 +21,14 @@ Su plan económico consiste en **no pagar la deuda con el FMI** y destinar ese d
 
 Sugieren que la **jornada laboral sea de 6 horas**, 5 días a la semana, para combatir el desempleo y la sobrecarga horaria. También, proponen que el salario mínimo sea equivalente a la canasta familiar y que todos se ajusten por inflación al igual que las jubilaciones, pero con la **adopción inmediata del 82% móvil**. A su vez, impulsan la prohibición de despidos y suspensiones. 
 
+El equipo de La Trinchera habló con la economista Carolina Moreni, actual Directoral Provincial  de Promoción y Desarrollo Comercial de Buenos Aires para poder analizar en profundidad las propuestas económicas. La directora asevera que si bien la manera que se tomó la deuda con el FMI "es inconstitucional y tiene un montón de grises", se debe pagarla porque "es una obligación institucional de nosotros como una república" porque validamos el acuerdo y si no se paga "vamos a quedar en default".
+
+La propuesta de nacionalizar la banca para Moreni no es viable porque "rompería con una dinámica internacional. Vivimos en un mundo capitalista." y la idea de una asamblea abierta haría entrar al sistema en un "conflicto de capacidades" y podría ser altamente riesgoso, "necesitamos representantes que estén formados". Además asegura que exiten otras posibilidades más saludables para que los bancos nacionales se desarrollen y fortalezcan.
+
+La jornada laboral de 6 horas "no se implementó en ningún lugar del mundo de esta manera" expresa la economista y se pregunta "¿Cómo le vamos a decir a la industria naccional que no vende, que tampoco despida?", dice que esta propuesta "es una chicana" y que todas las propuestas económicas de la izquierda están "en la línea de que todos los empresarios son malos" y tiene la idea de los trabajadores como "operarios de 1950".
+
+Pablo Salinas le explica al equipo de La Trinchera que esto se debe a que "es un partido bien ideológico y no tanto pragmático" por lo que al no renovar sus propuestas "empiezan a hablar en otro idioma", cuando en realidad el partido debería "estar muy conectado con el pulso social".
+
 **Materia ambiental**
 
 Rechazan la megaminería, el fracking, el uso indiscriminado de agrotóxicos, y a la compañía multinacional Barrick Gold y el acuerdo YPF-Chevron. Sin embargo, **apuestan por una reconversión hacia una matriz energética renovable** con los recursos recuperados y procuran un plan de reforma agraria apoyado en créditos blandos y asistencia técnica de pequeños productores.
