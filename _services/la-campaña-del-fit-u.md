@@ -27,7 +27,7 @@ La propuesta de nacionalizar la banca para Moreni no es viable porque "rompería
 
 La jornada laboral de 6 horas "no se implementó en ningún lugar del mundo de esta manera" expresa la economista y se pregunta "¿Cómo le vamos a decir a la industria nacional que no vende, que tampoco despida?", dice que esta propuesta "es una chicana" y que todas las propuestas económicas de la izquierda están "en la línea de que todos los empresarios son malos" y tiene la idea de los trabajadores como "operarios de 1950".
 
-Pablo Salinas le explica al equipo de La Trinchera que esto se debe a que "es un partido bien ideológico y no tanto pragmático" por lo que al no renovar sus propuestas "empiezan a hablar en otro idioma", cuando en realidad el partido debería "estar muy conectado con el pulso social".
+El politólogo Pablo Salinas le explica al equipo de La Trinchera que esto se debe a que "es un partido bien ideológico y no tanto pragmático" por lo que al no renovar sus propuestas "empiezan a hablar en otro idioma", cuando en realidad el partido debería "estar muy conectado con el pulso social".
 
 **Materia ambiental**
 
