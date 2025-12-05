@@ -10,7 +10,7 @@ main:
     weight: 4
  
 footer:
-  - name: "Home"
+  - name: "La trinchera"
     url: "/"
     weight: 1
 
