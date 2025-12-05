@@ -4,4 +4,4 @@ date: 2018-11-19T10:47:58+10:00
 jobtitle: "Estudiante de Periodismo"
 weight: 7
 ---
-Estudiante de Periodismo, enfocada en temas de literatura, música y cultura en general. Disfruto de redactar y editar textos, mi función en La Trinchera es escribir notas, editarlas y generar contenido para difundirlas en redes sociales.
+Estudiante de Periodismo con interés en la literatura, la música y la cultura.Reponsable de la redacción y edición de notas, además de la creación de contenido para redes sociales de La trinchera.
