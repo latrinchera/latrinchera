@@ -6,4 +6,4 @@ linkedinurl: ""
 weight: 2
 ---
 
-Estudiante de Comunicación periodística interesada en la comunicación multimedial, periodismo narrativo y documental. Escribo notas para la página wed de La Trinchera, y subo contenido a las redes sociales del mismo medio.
+Estudiante de Periodismo con interés en la comunicación multimedial, el periodismo narrativo y el documental. Responsable de la redacción de notas y de la creación de contenido para redes sociales de La trinchera.
