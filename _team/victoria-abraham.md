@@ -5,4 +5,4 @@ jobtitle: "Estudiante de Periodismo"
 weight: 7
 ---
 
-Estudiante de Comunicación Periodística, con interés en los deportes, las series y el cine. En La Trinchera redacto notas y publico contenido en redes sociales.
+Estudiante de Comunicación Periodística con interés en los deportes, las series y el cine. Responsable de la redacción de notas y la publicación de contenido en redes sociales de La trinchera.
