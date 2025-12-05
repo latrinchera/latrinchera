@@ -60,10 +60,10 @@ A continuación fue el turno de Celeste Fierro, del Movimiento Socialista, tambi
 Fierro afirmó que el gobierno de Milei recibirá un golpe en las urnas y que su política económica y social ya enfrenta un rechazo mayoritario en las calles. Concluyó que a el presidente hay que derrotarlo “en las urnas y en la calle”, y que el verdadero objetivo es construir un gran partido anticapitalista, socialista y revolucionario. Se retiró del escenario entre gritos y aplausos.
 
 ![Cecilia Fierro](https://raw.githubusercontent.com/latrinchera/latrinchera/refs/heads/master/images/cecilia-ferro.jpg)
-> Cecilia Fierro durante su intervención en el acto
+> Celeste Fierro durante su intervención en el acto
 
 <div class="flourish-embed flourish-word-cloud" data-src="visualisation/25934505"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25934505/thumbnail" width="100%" alt="word-cloud visualization" /></noscript></div>
-> Nube de palabras del discurso de Cecilia Fierro
+> Nube de palabras del discurso de Celeste Fierro
 
 El anteúltimo orador fue Gabriel Solano, diputado del FIT-U, quien comenzó reconociendo la decisión de realizar el acto frente a la embajada estadounidense como “realismo político”. Según él, si lo hacían en Plaza de Mayo no se encontrarían “con quien manda en la Argentina, sino con un chirolita de Trump”. Sostuvo que Estados Unidos no solo ejerce una intervención económica, sino también política, y remarcó que todos los partidos capitalistas apoyan las reformas laboral y previsional, mientras que el FIT-U es el único que se opone.
 
